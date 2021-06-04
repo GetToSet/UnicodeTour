@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="17701" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="17703"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <collectionReusableView opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" id="uw8-xp-3uZ" customClass="CharactersCollectionHeaderView" customModule="LiveViewTestApp">
+            <rect key="frame" x="0.0" y="0.0" width="414" height="50"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <subviews>
+                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Block Name" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="8SG-eY-Gkv">
+                    <rect key="frame" x="46" y="12" width="348" height="26.5"/>
+                    <fontDescription key="fontDescription" type="boldSystem" pointSize="22"/>
+                    <nil key="textColor"/>
+                    <nil key="highlightedColor"/>
+                </label>
+                <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="I1w-E9-8qZ">
+                    <rect key="frame" x="20" y="17" width="16" height="16"/>
+                    <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                    <constraints>
+                        <constraint firstAttribute="height" constant="16" id="rdg-cA-F8l"/>
+                        <constraint firstAttribute="width" secondItem="I1w-E9-8qZ" secondAttribute="height" id="xAu-vK-neJ"/>
+                    </constraints>
+                </view>
+            </subviews>
+            <constraints>
+                <constraint firstItem="I1w-E9-8qZ" firstAttribute="centerY" secondItem="uw8-xp-3uZ" secondAttribute="centerY" id="0AD-vl-izt"/>
+                <constraint firstItem="I1w-E9-8qZ" firstAttribute="leading" secondItem="uw8-xp-3uZ" secondAttribute="leading" constant="20" id="HLq-Bk-HAM"/>
+                <constraint firstItem="8SG-eY-Gkv" firstAttribute="leading" secondItem="I1w-E9-8qZ" secondAttribute="trailing" constant="10" id="M0J-RJ-mSA"/>
+                <constraint firstAttribute="trailing" secondItem="8SG-eY-Gkv" secondAttribute="trailing" constant="20" id="Wrq-3D-NC2"/>
+                <constraint firstItem="8SG-eY-Gkv" firstAttribute="centerY" secondItem="I1w-E9-8qZ" secondAttribute="centerY" id="nO8-Bh-g4D"/>
+            </constraints>
+            <connections>
+                <outlet property="bulletView" destination="I1w-E9-8qZ" id="F8y-P8-aj0"/>
+                <outlet property="titleLabel" destination="8SG-eY-Gkv" id="GHq-VG-nsq"/>
+            </connections>
+            <point key="canvasLocation" x="-417.39130434782612" y="-15.401785714285714"/>
+        </collectionReusableView>
+    </objects>
+</document>

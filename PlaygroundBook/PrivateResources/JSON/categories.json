@@ -1,0 +1,78 @@
+[
+  {
+    "key": "Africa",
+    "name": "African scripts"
+  },
+  {
+    "key": "Americas",
+    "name": "American scripts"
+  },
+  {
+    "key": "AsiaEast",
+    "name": "East Asian scripts"
+  },
+  {
+    "key": "AsiaSC",
+    "name": "South and Central Asian scripts"
+  },
+  {
+    "key": "AsiaSE",
+    "name": "Southeast Asian scripts"
+  },
+  {
+    "key": "cuneiform",
+    "name": "Cuneiform"
+  },
+  {
+    "key": "Europe",
+    "name": "Non-Latin European scripts"
+  },
+  {
+    "key": "Han",
+    "name": "CJK characters"
+  },
+  {
+    "key": "hieroglyphs",
+    "name": "Hieroglyphs"
+  },
+  {
+    "key": "IndOcean",
+    "name": "Indonesian and Oceanic scripts"
+  },
+  {
+    "key": "Latin",
+    "name": "Latin script"
+  },
+  {
+    "key": "ME",
+    "name": "Middle Eastern and Southwest Asian scripts"
+  },
+  {
+    "key": "misc",
+    "name": "Miscellaneous characters"
+  },
+  {
+    "key": "notation",
+    "name": "Notational systems"
+  },
+  {
+    "key": "private",
+    "name": "Private use"
+  },
+  {
+    "key": "surrogates",
+    "name": "UTF-16 surrogates"
+  },
+  {
+    "key": "symbols",
+    "name": "Symbols"
+  },
+  {
+    "key": "tags",
+    "name": "Tags"
+  },
+  {
+    "key": "variation",
+    "name": "Variation Selectors"
+  }
+]

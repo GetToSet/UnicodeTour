@@ -1,0 +1,5375 @@
+[
+    {
+        "codePointStart": 0,
+        "codePointEnd": 127,
+        "key": "basic-latin",
+        "name": "Basic Latin",
+        "categoryKey": "Latin",
+        "type": "alphabet",
+        "languages": "English, German, French, Italian, Polish",
+        "countries": [
+            {
+                "name": "England",
+                "x": 115,
+                "y": 25
+            },
+            {
+                "name": "USA",
+                "x": 50,
+                "y": 35
+            },
+            {
+                "name": "Germany",
+                "x": 123,
+                "y": 25
+            },
+            {
+                "name": "France",
+                "x": 119,
+                "y": 29
+            },
+            {
+                "name": "Italy",
+                "x": 126,
+                "y": 32
+            },
+            {
+                "name": "Poland",
+                "x": 129,
+                "y": 25
+            }
+        ]
+    },
+    {
+        "codePointStart": 128,
+        "codePointEnd": 255,
+        "key": "latin-1-supplement",
+        "name": "Latin-1 Supplement",
+        "categoryKey": "Latin",
+        "type": "",
+        "languages": "",
+        "countries": [],
+        "points": []
+    },
+    {
+        "codePointStart": 256,
+        "codePointEnd": 383,
+        "key": "latin-extended-a",
+        "name": "Latin Extended-A",
+        "categoryKey": "Latin",
+        "type": "alphabet",
+        "languages": "Celtic, Sami, Maltese, Turkish",
+        "countries": [
+            {
+                "name": "Scotland",
+                "x": 114,
+                "y": 21
+            },
+            {
+                "name": "Wales",
+                "x": 114,
+                "y": 25
+            },
+            {
+                "name": "Ireland",
+                "x": 112,
+                "y": 25
+            },
+            {
+                "name": "Norway",
+                "x": 122,
+                "y": 19
+            },
+            {
+                "name": "Finland",
+                "x": 134,
+                "y": 17
+            },
+            {
+                "name": "Sweden",
+                "x": 127,
+                "y": 19
+            },
+            {
+                "name": "Malta",
+                "x": 127,
+                "y": 35
+            },
+            {
+                "name": "Turkey",
+                "x": 139,
+                "y": 34
+            }
+        ]
+    },
+    {
+        "codePointStart": 384,
+        "codePointEnd": 591,
+        "key": "latin-extended-b",
+        "name": "Latin Extended-B",
+        "categoryKey": "Latin",
+        "type": "alphabet",
+        "languages": "Slovenian, Croatian",
+        "countries": [
+            {
+                "name": "Slovenia",
+                "x": 128,
+                "y": 28
+            },
+            {
+                "name": "Croatia",
+                "x": 127,
+                "y": 30
+            },
+            {
+                "name": "Rumania",
+                "x": 135,
+                "y": 29
+            },
+            {
+                "name": "Libya",
+                "x": 127,
+                "y": 41
+            }
+        ]
+    },
+    {
+        "codePointStart": 592,
+        "codePointEnd": 687,
+        "key": "ipa-extensions",
+        "name": "IPA Extensions",
+        "categoryKey": "Latin",
+        "type": "alphabet",
+        "languages": "",
+        "countries": [],
+        "points": []
+    },
+    {
+        "codePointStart": 688,
+        "codePointEnd": 767,
+        "key": "spacing-modifier-letters",
+        "name": "Spacing Modifier Letters",
+        "categoryKey": "Latin",
+        "type": "alphabet",
+        "languages": "",
+        "countries": [],
+        "points": []
+    },
+    {
+        "codePointStart": 768,
+        "codePointEnd": 879,
+        "key": "combining-diacritical-marks",
+        "name": "Combining Diacritical Marks",
+        "categoryKey": "Europe",
+        "type": "alphabet",
+        "languages": "",
+        "countries": [],
+        "points": []
+    },
+    {
+        "codePointStart": 880,
+        "codePointEnd": 1023,
+        "key": "greek-coptic",
+        "name": "Greek and Coptic",
+        "categoryKey": "Europe",
+        "type": "alphabet",
+        "languages": "Greek, Coptic",
+        "countries": [
+            {
+                "name": "Greece",
+                "x": 132,
+                "y": 35
+            }
+        ]
+    },
+    {
+        "codePointStart": 1024,
+        "codePointEnd": 1279,
+        "key": "cyrillic",
+        "name": "Cyrillic",
+        "categoryKey": "Europe",
+        "type": "alphabet",
+        "languages": "Russian, Ukrainian, Bulgarian",
+        "countries": [
+            {
+                "name": "Russia",
+                "x": 170,
+                "y": 25
+            },
+            {
+                "name": "Ukraine",
+                "x": 138,
+                "y": 26
+            },
+            {
+                "name": "Bulgaria",
+                "x": 129,
+                "y": 31
+            },
+            {
+                "name": "Serbia",
+                "x": 132,
+                "y": 30
+            },
+            {
+                "name": "Macedonia",
+                "x": 132,
+                "y": 32
+            },
+            {
+                "name": "Moldova",
+                "x": 136,
+                "y": 28
+            }
+        ]
+    },
+    {
+        "codePointStart": 1280,
+        "codePointEnd": 1327,
+        "key": "cyrillic-supplement",
+        "name": "Cyrillic Supplement",
+        "categoryKey": "Europe",
+        "type": "alphabet",
+        "languages": "Komi",
+        "countries": [
+            {
+                "name": "Russia",
+                "x": 170,
+                "y": 25
+            }
+        ]
+    },
+    {
+        "codePointStart": 1328,
+        "codePointEnd": 1423,
+        "key": "armenian",
+        "name": "Armenian",
+        "categoryKey": "Europe",
+        "type": "alphabet",
+        "languages": "Armenian",
+        "countries": [
+            {
+                "name": "Armenia",
+                "x": 147,
+                "y": 33
+            }
+        ]
+    },
+    {
+        "codePointStart": 1424,
+        "codePointEnd": 1535,
+        "key": "hebrew",
+        "name": "Hebrew",
+        "categoryKey": "ME",
+        "type": "alphabet",
+        "languages": "Hebrew, Yiddish",
+        "countries": [
+            {
+                "name": "Israel",
+                "x": 141,
+                "y": 39
+            }
+        ]
+    },
+    {
+        "codePointStart": 1536,
+        "codePointEnd": 1791,
+        "key": "arabic",
+        "name": "Arabic",
+        "categoryKey": "ME",
+        "type": "alphabet",
+        "languages": "Arabic, Persian, Kurd",
+        "countries": [
+            {
+                "name": "Algeria",
+                "x": 117,
+                "y": 40
+            },
+            {
+                "name": "Bahrain",
+                "x": 152,
+                "y": 43
+            },
+            {
+                "name": "Egypt",
+                "x": 137,
+                "y": 42
+            },
+            {
+                "name": "Iraq",
+                "x": 147,
+                "y": 38
+            },
+            {
+                "name": "Iran",
+                "x": 153,
+                "y": 38
+            },
+            {
+                "name": "Kuwait",
+                "x": 150,
+                "y": 40
+            },
+            {
+                "name": "Afghanistan",
+                "x": 160,
+                "y": 40
+            },
+            {
+                "name": "Pakistan",
+                "x": 163,
+                "y": 41
+            },
+            {
+                "name": "India",
+                "x": 169,
+                "y": 47
+            },
+            {
+                "name": "Fiji Islands",
+                "x": 228,
+                "y": 74
+            }
+        ]
+    },
+    {
+        "codePointStart": 1792,
+        "codePointEnd": 1871,
+        "key": "syrian",
+        "name": "Syriac",
+        "categoryKey": "ME",
+        "type": "alphabet",
+        "languages": "Syrian, Arabic",
+        "countries": [
+            {
+                "name": "Algeria",
+                "x": 117,
+                "y": 40
+            },
+            {
+                "name": "Bahrain",
+                "x": 152,
+                "y": 43
+            },
+            {
+                "name": "Egypt",
+                "x": 137,
+                "y": 42
+            },
+            {
+                "name": "Syria",
+                "x": 143,
+                "y": 37
+            }
+        ]
+    },
+    {
+        "codePointStart": 1872,
+        "codePointEnd": 1919,
+        "key": "arabic-supplement",
+        "name": "Arabic Supplement",
+        "categoryKey": "ME",
+        "type": "alphabet",
+        "languages": "Arabic, Persian, Kurd",
+        "countries": [
+            {
+                "name": "Algeria",
+                "x": 117,
+                "y": 40
+            },
+            {
+                "name": "Bahrain",
+                "x": 152,
+                "y": 43
+            },
+            {
+                "name": "Egypt",
+                "x": 137,
+                "y": 42
+            },
+            {
+                "name": "Iraq",
+                "x": 147,
+                "y": 38
+            },
+            {
+                "name": "Iran",
+                "x": 153,
+                "y": 38
+            },
+            {
+                "name": "Kuwait",
+                "x": 150,
+                "y": 40
+            },
+            {
+                "name": "Afghanistan",
+                "x": 160,
+                "y": 40
+            },
+            {
+                "name": "Pakistan",
+                "x": 163,
+                "y": 41
+            },
+            {
+                "name": "India",
+                "x": 169,
+                "y": 47
+            },
+            {
+                "name": "Fiji Islands",
+                "x": 228,
+                "y": 74
+            }
+        ]
+    },
+    {
+        "codePointStart": 1920,
+        "codePointEnd": 1983,
+        "key": "thaana",
+        "name": "Thaana",
+        "categoryKey": "AsiaSC",
+        "type": "alphabet",
+        "languages": "Maldivian",
+        "countries": [
+            {
+                "name": "Maldives",
+                "x": 167,
+                "y": 60
+            }
+        ]
+    },
+    {
+        "codePointStart": 1984,
+        "codePointEnd": 2047,
+        "key": "nko",
+        "name": "NKo",
+        "categoryKey": "Africa",
+        "type": "alphabet",
+        "languages": "Nko",
+        "countries": [
+            {
+                "name": "Guinea",
+                "x": 108,
+                "y": 52
+            },
+            {
+                "name": "Mali",
+                "x": 116,
+                "y": 46
+            }
+        ]
+    },
+    {
+        "codePointStart": 2048,
+        "codePointEnd": 2111,
+        "key": "samaritan",
+        "name": "Samaritan",
+        "categoryKey": "ME",
+        "type": "alphabet",
+        "languages": "",
+        "countries": [],
+        "points": []
+    },
+    {
+        "codePointStart": 2112,
+        "codePointEnd": 2143,
+        "key": "mandaic",
+        "name": "Mandaic",
+        "categoryKey": "ME",
+        "type": "alphabet",
+        "languages": "Mandaic",
+        "countries": [],
+        "points": []
+    },
+    {
+        "codePointStart": 2144,
+        "codePointEnd": 2159,
+        "key": "syriac-supplement",
+        "name": "Syriac Supplement",
+        "categoryKey": "ME",
+        "type": "",
+        "languages": "",
+        "countries": [],
+        "points": []
+    },
+    {
+        "codePointStart": 2208,
+        "codePointEnd": 2303,
+        "key": "arabic-extended-a",
+        "name": "Arabic Extended-A",
+        "categoryKey": "ME",
+        "type": "alphabet",
+        "languages": "",
+        "countries": [],
+        "points": []
+    },
+    {
+        "codePointStart": 2304,
+        "codePointEnd": 2431,
+        "key": "devanagari",
+        "name": "Devanagari",
+        "categoryKey": "AsiaSC",
+        "type": "abugida",
+        "languages": "Sanskrit, Hindi",
+        "countries": [
+            {
+                "name": "India",
+                "x": 169,
+                "y": 47
+            },
+            {
+                "name": "Pakistan",
+                "x": 163,
+                "y": 41
+            },
+            {
+                "name": "Fiji Islands",
+                "x": 228,
+                "y": 74
+            },
+            {
+                "name": "Mauritius",
+                "x": 154,
+                "y": 74
+            }
+        ]
+    },
+    {
+        "codePointStart": 2432,
+        "codePointEnd": 2559,
+        "key": "bengali",
+        "name": "Bengali",
+        "categoryKey": "AsiaSC",
+        "type": "abugida",
+        "languages": "Bengali",
+        "countries": [
+            {
+                "name": "India",
+                "x": 169,
+                "y": 47
+            },
+            {
+                "name": "Bangladesh",
+                "x": 177,
+                "y": 44
+            },
+            {
+                "name": "Butane",
+                "x": 178,
+                "y": 42
+            }
+        ]
+    },
+    {
+        "codePointStart": 2560,
+        "codePointEnd": 2687,
+        "key": "gurmukhi",
+        "name": "Gurmukhi",
+        "categoryKey": "AsiaSC",
+        "type": "abugida",
+        "languages": "Punjabi",
+        "countries": [
+            {
+                "name": "India",
+                "x": 169,
+                "y": 47
+            },
+            {
+                "name": "Pakistan",
+                "x": 163,
+                "y": 41
+            }
+        ]
+    },
+    {
+        "codePointStart": 2688,
+        "codePointEnd": 2815,
+        "key": "gujarati",
+        "name": "Gujarati",
+        "categoryKey": "AsiaSC",
+        "type": "abugida",
+        "languages": "",
+        "countries": [
+            {
+                "name": "India",
+                "x": 169,
+                "y": 47
+            },
+            {
+                "name": "Pakistan",
+                "x": 163,
+                "y": 41
+            },
+            {
+                "name": "Uganda",
+                "x": 138,
+                "y": 57
+            },
+            {
+                "name": "Tanzania",
+                "x": 141,
+                "y": 64
+            },
+            {
+                "name": "Kenya",
+                "x": 143,
+                "y": 59
+            }
+        ]
+    },
+    {
+        "codePointStart": 2816,
+        "codePointEnd": 2943,
+        "key": "oriya",
+        "name": "Oriya",
+        "categoryKey": "AsiaSC",
+        "type": "abugida",
+        "languages": "Oriya",
+        "countries": [
+            {
+                "name": "India",
+                "x": 169,
+                "y": 47
+            }
+        ]
+    },
+    {
+        "codePointStart": 2944,
+        "codePointEnd": 3071,
+        "key": "tamil",
+        "name": "Tamil",
+        "categoryKey": "AsiaSC",
+        "type": "abugida",
+        "languages": "Tamil, Sanskrit",
+        "countries": [
+            {
+                "name": "India",
+                "x": 169,
+                "y": 47
+            },
+            {
+                "name": "Sri-Lanka",
+                "x": 171,
+                "y": 55
+            },
+            {
+                "name": "Singapore",
+                "x": 186,
+                "y": 58
+            },
+            {
+                "name": "Malaysia",
+                "x": 186,
+                "y": 57
+            },
+            {
+                "name": "Kenya",
+                "x": 143,
+                "y": 59
+            }
+        ]
+    },
+    {
+        "codePointStart": 3072,
+        "codePointEnd": 3199,
+        "key": "telugu",
+        "name": "Telugu",
+        "categoryKey": "AsiaSC",
+        "type": "abugida",
+        "languages": "Telugu",
+        "countries": [
+            {
+                "name": "India",
+                "x": 169,
+                "y": 47
+            }
+        ]
+    },
+    {
+        "codePointStart": 3200,
+        "codePointEnd": 3327,
+        "key": "kannada",
+        "name": "Kannada",
+        "categoryKey": "AsiaSC",
+        "type": "abugida",
+        "languages": "Dravidian",
+        "countries": [
+            {
+                "name": "India",
+                "x": 169,
+                "y": 47
+            },
+            {
+                "name": "Goa",
+                "x": 166,
+                "y": 49
+            }
+        ]
+    },
+    {
+        "codePointStart": 3328,
+        "codePointEnd": 3455,
+        "key": "malayalam",
+        "name": "Malayalam",
+        "categoryKey": "AsiaSC",
+        "type": "abugida",
+        "languages": "Dravidian",
+        "countries": [
+            {
+                "name": "India",
+                "x": 169,
+                "y": 47
+            },
+            {
+                "name": "Goa",
+                "x": 166,
+                "y": 49
+            }
+        ]
+    },
+    {
+        "codePointStart": 3456,
+        "codePointEnd": 3583,
+        "key": "sinhala",
+        "name": "Sinhala",
+        "categoryKey": "AsiaSC",
+        "type": "abugida",
+        "languages": "Sinhalese, Sanskrit",
+        "countries": [
+            {
+                "name": "Sri-Lanka",
+                "x": 171,
+                "y": 55
+            },
+            {
+                "name": "India",
+                "x": 169,
+                "y": 47
+            }
+        ]
+    },
+    {
+        "codePointStart": 3584,
+        "codePointEnd": 3711,
+        "key": "thai",
+        "name": "Thai",
+        "categoryKey": "AsiaSE",
+        "type": "abugida",
+        "languages": "Thai",
+        "countries": [
+            {
+                "name": "Thailand",
+                "x": 185,
+                "y": 49
+            },
+            {
+                "name": "India",
+                "x": 169,
+                "y": 47
+            }
+        ]
+    },
+    {
+        "codePointStart": 3712,
+        "codePointEnd": 3839,
+        "key": "lao",
+        "name": "Lao",
+        "categoryKey": "AsiaSE",
+        "type": "abugida",
+        "languages": "Laotian",
+        "countries": [
+            {
+                "name": "Thailand",
+                "x": 185,
+                "y": 49
+            },
+            {
+                "name": "Laos",
+                "x": 186,
+                "y": 48
+            }
+        ]
+    },
+    {
+        "codePointStart": 3840,
+        "codePointEnd": 4095,
+        "key": "tibetan",
+        "name": "Tibetan",
+        "categoryKey": "AsiaSC",
+        "type": "abugida",
+        "languages": "Tibetan",
+        "countries": [
+            {
+                "name": "China",
+                "x": 184,
+                "y": 37
+            },
+            {
+                "name": "India",
+                "x": 169,
+                "y": 47
+            },
+            {
+                "name": "Butane",
+                "x": 178,
+                "y": 42
+            },
+            {
+                "name": "Nepal",
+                "x": 173,
+                "y": 41
+            },
+            {
+                "name": "Pakistan",
+                "x": 163,
+                "y": 41
+            }
+        ]
+    },
+    {
+        "codePointStart": 4096,
+        "codePointEnd": 4255,
+        "key": "myanmar",
+        "name": "Myanmar",
+        "categoryKey": "AsiaSE",
+        "type": "abugida",
+        "languages": "Burmese",
+        "countries": [
+            {
+                "name": "Myanmar",
+                "x": 182,
+                "y": 47
+            },
+            {
+                "name": "Thailand",
+                "x": 185,
+                "y": 49
+            },
+            {
+                "name": "Bangladesh",
+                "x": 177,
+                "y": 44
+            },
+            {
+                "name": "Malaysia",
+                "x": 186,
+                "y": 57
+            }
+        ]
+    },
+    {
+        "codePointStart": 4256,
+        "codePointEnd": 4351,
+        "key": "georgian",
+        "name": "Georgian",
+        "categoryKey": "Europe",
+        "type": "alphabet",
+        "languages": "Georgian, Abkhazian",
+        "countries": [
+            {
+                "name": "Georgia",
+                "x": 144,
+                "y": 31
+            },
+            {
+                "name": "Abkhazia",
+                "x": 144,
+                "y": 31
+            }
+        ]
+    },
+    {
+        "codePointStart": 4352,
+        "codePointEnd": 4607,
+        "key": "hangul-jamo",
+        "name": "Hangul Jamo",
+        "categoryKey": "AsiaEast",
+        "type": "abugida",
+        "languages": "Korean",
+        "countries": [
+            {
+                "name": "North Korea",
+                "x": 202,
+                "y": 33
+            },
+            {
+                "name": "South Korea",
+                "x": 203,
+                "y": 36
+            },
+            {
+                "name": "China",
+                "x": 184,
+                "y": 37
+            },
+            {
+                "name": "Japan",
+                "x": 210,
+                "y": 36
+            },
+            {
+                "name": "Indonesia",
+                "x": 193,
+                "y": 60
+            }
+        ]
+    },
+    {
+        "codePointStart": 4608,
+        "codePointEnd": 4991,
+        "key": "ethiopic",
+        "name": "Ethiopic",
+        "categoryKey": "Africa",
+        "type": "abugida",
+        "languages": "",
+        "countries": [
+            {
+                "name": "Ethiopia",
+                "x": 145,
+                "y": 54
+            },
+            {
+                "name": "Eritrea",
+                "x": 143,
+                "y": 50
+            },
+            {
+                "name": "Somalia",
+                "x": 148,
+                "y": 55
+            },
+            {
+                "name": "Sudan",
+                "x": 137,
+                "y": 50
+            },
+            {
+                "name": "Israel",
+                "x": 141,
+                "y": 39
+            }
+        ]
+    },
+    {
+        "codePointStart": 4992,
+        "codePointEnd": 5023,
+        "key": "ethiopic-supplement",
+        "name": "Ethiopic Supplement",
+        "categoryKey": "Africa",
+        "type": "abugida",
+        "languages": "",
+        "countries": [],
+        "points": []
+    },
+    {
+        "codePointStart": 5024,
+        "codePointEnd": 5119,
+        "key": "cherokee",
+        "name": "Cherokee",
+        "categoryKey": "Americas",
+        "type": "syllabary",
+        "languages": "Cherokee",
+        "countries": [
+            {
+                "name": "USA",
+                "x": 50,
+                "y": 35
+            }
+        ]
+    },
+    {
+        "codePointStart": 5120,
+        "codePointEnd": 5759,
+        "key": "unified-canadian-aboriginal-syllabics",
+        "name": "Unified Canadian Aboriginal Syllabics",
+        "categoryKey": "Americas",
+        "type": "abugida",
+        "languages": "Cree",
+        "countries": [
+            {
+                "name": "Canada",
+                "x": 48,
+                "y": 21
+            },
+            {
+                "name": "USA",
+                "x": 50,
+                "y": 35
+            }
+        ]
+    },
+    {
+        "codePointStart": 5760,
+        "codePointEnd": 5791,
+        "key": "ogham",
+        "name": "Ogham",
+        "categoryKey": "Europe",
+        "type": "alphabet",
+        "languages": "primitive Irish, Pictish",
+        "countries": [
+            {
+                "name": "Scotland",
+                "x": 114,
+                "y": 21
+            },
+            {
+                "name": "Ireland",
+                "x": 112,
+                "y": 25
+            },
+            {
+                "name": "Wales",
+                "x": 114,
+                "y": 25
+            }
+        ]
+    },
+    {
+        "codePointStart": 5792,
+        "codePointEnd": 5887,
+        "key": "runic",
+        "name": "Runic",
+        "categoryKey": "Europe",
+        "type": "alphabet",
+        "languages": "old Italic, Runic",
+        "countries": [],
+        "points": []
+    },
+    {
+        "codePointStart": 5888,
+        "codePointEnd": 5919,
+        "key": "tagalog",
+        "name": "Tagalog",
+        "categoryKey": "IndOcean",
+        "type": "abugida",
+        "languages": "Tagalog, Runic",
+        "countries": [
+            {
+                "name": "North Philippines",
+                "x": 198,
+                "y": 49
+            }
+        ]
+    },
+    {
+        "codePointStart": 5920,
+        "codePointEnd": 5951,
+        "key": "hanunoo",
+        "name": "Hanunoo",
+        "categoryKey": "IndOcean",
+        "type": "abugida",
+        "languages": "Hanunoo",
+        "countries": [
+            {
+                "name": "Philippines",
+                "x": 199,
+                "y": 52
+            }
+        ]
+    },
+    {
+        "codePointStart": 5952,
+        "codePointEnd": 5983,
+        "key": "buhid",
+        "name": "Buhid",
+        "categoryKey": "IndOcean",
+        "type": "abugida",
+        "languages": "Buhid",
+        "countries": [
+            {
+                "name": "Philippines",
+                "x": 199,
+                "y": 52
+            }
+        ]
+    },
+    {
+        "codePointStart": 5984,
+        "codePointEnd": 6015,
+        "key": "tagbanwa",
+        "name": "Tagbanwa",
+        "categoryKey": "IndOcean",
+        "type": "abugida",
+        "languages": "",
+        "countries": [
+            {
+                "name": "Philippines",
+                "x": 199,
+                "y": 52
+            }
+        ]
+    },
+    {
+        "codePointStart": 6016,
+        "codePointEnd": 6143,
+        "key": "khmer",
+        "name": "Khmer",
+        "categoryKey": "AsiaSE",
+        "type": "abugida",
+        "languages": "Khmer",
+        "countries": [
+            {
+                "name": "Cambodia",
+                "x": 187,
+                "y": 52
+            },
+            {
+                "name": "Vietnam",
+                "x": 190,
+                "y": 52
+            },
+            {
+                "name": "Thailand",
+                "x": 185,
+                "y": 49
+            },
+            {
+                "name": "Laos",
+                "x": 186,
+                "y": 48
+            },
+            {
+                "name": "China",
+                "x": 184,
+                "y": 37
+            }
+        ]
+    },
+    {
+        "codePointStart": 6144,
+        "codePointEnd": 6319,
+        "key": "mongolian",
+        "name": "Mongolian",
+        "categoryKey": "AsiaSC",
+        "type": "alphabet",
+        "languages": "Mongolian",
+        "countries": [
+            {
+                "name": "China",
+                "x": 184,
+                "y": 37
+            },
+            {
+                "name": "Mongolia",
+                "x": 187,
+                "y": 27
+            },
+            {
+                "name": "Afghanistan",
+                "x": 160,
+                "y": 40
+            }
+        ]
+    },
+    {
+        "codePointStart": 6320,
+        "codePointEnd": 6399,
+        "key": "unified-canadian-aboriginal-syllabics-extended",
+        "name": "Unified Canadian Aboriginal Syllabics Extended",
+        "categoryKey": "Americas",
+        "type": "abugida",
+        "languages": "Cree",
+        "countries": [
+            {
+                "name": "Canada",
+                "x": 48,
+                "y": 21
+            },
+            {
+                "name": "USA",
+                "x": 50,
+                "y": 35
+            }
+        ]
+    },
+    {
+        "codePointStart": 6400,
+        "codePointEnd": 6479,
+        "key": "limbu",
+        "name": "Limbu",
+        "categoryKey": "AsiaSC",
+        "type": "abugida",
+        "languages": "Limbu",
+        "countries": [
+            {
+                "name": "Nepal",
+                "x": 173,
+                "y": 41
+            },
+            {
+                "name": "India",
+                "x": 169,
+                "y": 47
+            },
+            {
+                "name": "Kashmir",
+                "x": 168,
+                "y": 39
+            },
+            {
+                "name": "Pakistan",
+                "x": 163,
+                "y": 41
+            }
+        ]
+    },
+    {
+        "codePointStart": 6480,
+        "codePointEnd": 6527,
+        "key": "tai-le",
+        "name": "Tai Le",
+        "categoryKey": "AsiaSE",
+        "type": "abugida",
+        "languages": "",
+        "countries": [
+            {
+                "name": "Vietnam",
+                "x": 190,
+                "y": 52
+            },
+            {
+                "name": "Laos",
+                "x": 186,
+                "y": 48
+            },
+            {
+                "name": "Myanmar",
+                "x": 182,
+                "y": 47
+            },
+            {
+                "name": "Thailand",
+                "x": 185,
+                "y": 49
+            }
+        ]
+    },
+    {
+        "codePointStart": 6528,
+        "codePointEnd": 6623,
+        "key": "new-tai-lue",
+        "name": "New Tai Lue",
+        "categoryKey": "AsiaSE",
+        "type": "alphabet",
+        "languages": "",
+        "countries": [
+            {
+                "name": "Vietnam",
+                "x": 190,
+                "y": 52
+            },
+            {
+                "name": "Laos",
+                "x": 186,
+                "y": 48
+            },
+            {
+                "name": "Myanmar",
+                "x": 182,
+                "y": 47
+            },
+            {
+                "name": "Thailand",
+                "x": 185,
+                "y": 49
+            }
+        ]
+    },
+    {
+        "codePointStart": 6624,
+        "codePointEnd": 6655,
+        "key": "khmer-symbols",
+        "name": "Khmer Symbols",
+        "categoryKey": "AsiaSE",
+        "type": "",
+        "languages": "",
+        "countries": [],
+        "points": []
+    },
+    {
+        "codePointStart": 6656,
+        "codePointEnd": 6687,
+        "key": "buginese",
+        "name": "Buginese",
+        "categoryKey": "IndOcean",
+        "type": "abugida",
+        "languages": "Buginese, Makassarese, Mandar",
+        "countries": [
+            {
+                "name": "Indonesia",
+                "x": 193,
+                "y": 60
+            }
+        ]
+    },
+    {
+        "codePointStart": 6688,
+        "codePointEnd": 6831,
+        "key": "tai-tham",
+        "name": "Tai Tham",
+        "categoryKey": "AsiaSE",
+        "type": "abugida",
+        "languages": "",
+        "countries": [
+            {
+                "name": "Thailand",
+                "x": 185,
+                "y": 49
+            },
+            {
+                "name": "Burma",
+                "x": 181,
+                "y": 47
+            },
+            {
+                "name": "Laos",
+                "x": 186,
+                "y": 48
+            },
+            {
+                "name": "Cambodia",
+                "x": 187,
+                "y": 52
+            },
+            {
+                "name": "China",
+                "x": 184,
+                "y": 37
+            },
+            {
+                "name": "Vietnam",
+                "x": 190,
+                "y": 52
+            }
+        ]
+    },
+    {
+        "codePointStart": 6832,
+        "codePointEnd": 6911,
+        "key": "combining-diacritical-marks-extended",
+        "name": "Combining Diacritical Marks Extended",
+        "categoryKey": "Europe",
+        "type": "",
+        "languages": "",
+        "countries": [],
+        "points": []
+    },
+    {
+        "codePointStart": 6912,
+        "codePointEnd": 7039,
+        "key": "balinese",
+        "name": "Balinese",
+        "categoryKey": "IndOcean",
+        "type": "abugida",
+        "languages": "Balinese, Sasak",
+        "countries": [
+            {
+                "name": "Bali",
+                "x": 194,
+                "y": 65
+            },
+            {
+                "name": "Lombok",
+                "x": 195,
+                "y": 65
+            },
+            {
+                "name": "Indonesia",
+                "x": 193,
+                "y": 60
+            }
+        ]
+    },
+    {
+        "codePointStart": 7040,
+        "codePointEnd": 7103,
+        "key": "sundanese",
+        "name": "Sundanese",
+        "categoryKey": "IndOcean",
+        "type": "abugida",
+        "languages": "Sundanese",
+        "countries": [
+            {
+                "name": "Indonesia",
+                "x": 193,
+                "y": 60
+            },
+            {
+                "name": "Jakarta",
+                "x": 188,
+                "y": 64
+            }
+        ]
+    },
+    {
+        "codePointStart": 7104,
+        "codePointEnd": 7167,
+        "key": "batak",
+        "name": "Batak",
+        "categoryKey": "IndOcean",
+        "type": "abugida",
+        "languages": "Batak",
+        "countries": [
+            {
+                "name": "Indonesia",
+                "x": 193,
+                "y": 60
+            }
+        ]
+    },
+    {
+        "codePointStart": 7168,
+        "codePointEnd": 7247,
+        "key": "lepcha",
+        "name": "Lepcha",
+        "categoryKey": "AsiaSC",
+        "type": "abugida",
+        "languages": "Lepcha",
+        "countries": [
+            {
+                "name": "India",
+                "x": 169,
+                "y": 47
+            },
+            {
+                "name": "Butane",
+                "x": 178,
+                "y": 42
+            },
+            {
+                "name": "Nepal",
+                "x": 173,
+                "y": 41
+            }
+        ]
+    },
+    {
+        "codePointStart": 7248,
+        "codePointEnd": 7295,
+        "key": "ol-chiki",
+        "name": "Ol Chiki",
+        "categoryKey": "AsiaSC",
+        "type": "alphabet",
+        "languages": "Santali",
+        "countries": [
+            {
+                "name": "India",
+                "x": 169,
+                "y": 47
+            },
+            {
+                "name": "Butane",
+                "x": 178,
+                "y": 42
+            },
+            {
+                "name": "Nepal",
+                "x": 173,
+                "y": 41
+            },
+            {
+                "name": "Bangladesh",
+                "x": 177,
+                "y": 44
+            }
+        ]
+    },
+    {
+        "codePointStart": 7296,
+        "codePointEnd": 7311,
+        "key": "cyrillic-extended-c",
+        "name": "Cyrillic Extended C",
+        "categoryKey": "Europe",
+        "type": "alphabet",
+        "languages": "",
+        "countries": [],
+        "points": []
+    },
+    {
+        "codePointStart": 7312,
+        "codePointEnd": 7359,
+        "key": "georgian-extended",
+        "name": "Georgian Extended",
+        "categoryKey": "Europe",
+        "type": "",
+        "languages": "",
+        "countries": [],
+        "points": []
+    },
+    {
+        "codePointStart": 7360,
+        "codePointEnd": 7375,
+        "key": "sundanese-supplement",
+        "name": "Sundanese Supplement",
+        "categoryKey": "IndOcean",
+        "type": "abugida",
+        "languages": "Sundanese",
+        "countries": [],
+        "points": []
+    },
+    {
+        "codePointStart": 7376,
+        "codePointEnd": 7423,
+        "key": "vedic-extensions",
+        "name": "Vedic Extensions",
+        "categoryKey": "AsiaSC",
+        "type": "",
+        "languages": "",
+        "countries": [],
+        "points": []
+    },
+    {
+        "codePointStart": 7424,
+        "codePointEnd": 7551,
+        "key": "phonetic-extensions",
+        "name": "Phonetic Extensions",
+        "categoryKey": "Latin",
+        "type": "",
+        "languages": "",
+        "countries": [],
+        "points": []
+    },
+    {
+        "codePointStart": 7552,
+        "codePointEnd": 7615,
+        "key": "phonetic-extensions-supplement",
+        "name": "Phonetic Extensions Supplement",
+        "categoryKey": "Latin",
+        "type": "",
+        "languages": "",
+        "countries": [],
+        "points": []
+    },
+    {
+        "codePointStart": 7616,
+        "codePointEnd": 7679,
+        "key": "combining-diacritical-marks-supplement",
+        "name": "Combining Diacritical Marks Supplement",
+        "categoryKey": "Europe",
+        "type": "",
+        "languages": "",
+        "countries": [],
+        "points": []
+    },
+    {
+        "codePointStart": 7680,
+        "codePointEnd": 7935,
+        "key": "latin-extended-additional",
+        "name": "Latin Extended Additional",
+        "categoryKey": "Latin",
+        "type": "",
+        "languages": "",
+        "countries": [
+            {
+                "name": "England",
+                "x": 115,
+                "y": 25
+            },
+            {
+                "name": "USA",
+                "x": 50,
+                "y": 35
+            },
+            {
+                "name": "Germany",
+                "x": 123,
+                "y": 25
+            },
+            {
+                "name": "France",
+                "x": 119,
+                "y": 29
+            },
+            {
+                "name": "Italy",
+                "x": 126,
+                "y": 32
+            },
+            {
+                "name": "Poland",
+                "x": 129,
+                "y": 25
+            }
+        ]
+    },
+    {
+        "codePointStart": 7936,
+        "codePointEnd": 8191,
+        "key": "greek-extended",
+        "name": "Greek Extended",
+        "categoryKey": "Europe",
+        "type": "",
+        "languages": "",
+        "countries": [
+            {
+                "name": "Greece",
+                "x": 132,
+                "y": 35
+            }
+        ]
+    },
+    {
+        "codePointStart": 8192,
+        "codePointEnd": 8303,
+        "key": "general-punctuation",
+        "name": "General Punctuation",
+        "categoryKey": "Europe",
+        "type": "",
+        "languages": "",
+        "countries": [],
+        "points": []
+    },
+    {
+        "codePointStart": 8304,
+        "codePointEnd": 8351,
+        "key": "superscripts-and-subscripts",
+        "name": "Superscripts and Subscripts",
+        "categoryKey": "symbols",
+        "type": "",
+        "languages": "",
+        "countries": [],
+        "points": []
+    },
+    {
+        "codePointStart": 8352,
+        "codePointEnd": 8399,
+        "key": "currency-symbols",
+        "name": "Currency Symbols",
+        "categoryKey": "symbols",
+        "type": "",
+        "languages": "",
+        "countries": [],
+        "points": []
+    },
+    {
+        "codePointStart": 8400,
+        "codePointEnd": 8447,
+        "key": "combining-diacritical-marks-for-symbols",
+        "name": "Combining Diacritical Marks for Symbols",
+        "categoryKey": "symbols",
+        "type": "",
+        "languages": "",
+        "countries": [],
+        "points": []
+    },
+    {
+        "codePointStart": 8448,
+        "codePointEnd": 8527,
+        "key": "letterlike-symbols",
+        "name": "Letterlike Symbols",
+        "categoryKey": "symbols",
+        "type": "",
+        "languages": "",
+        "countries": [],
+        "points": []
+    },
+    {
+        "codePointStart": 8528,
+        "codePointEnd": 8591,
+        "key": "number-forms",
+        "name": "Number Forms",
+        "categoryKey": "symbols",
+        "type": "",
+        "languages": "",
+        "countries": [],
+        "points": []
+    },
+    {
+        "codePointStart": 8592,
+        "codePointEnd": 8703,
+        "key": "arrows",
+        "name": "Arrows",
+        "categoryKey": "symbols",
+        "type": "",
+        "languages": "",
+        "countries": [],
+        "points": []
+    },
+    {
+        "codePointStart": 8704,
+        "codePointEnd": 8959,
+        "key": "mathematical-operators",
+        "name": "Mathematical Operators",
+        "categoryKey": "symbols",
+        "type": "",
+        "languages": "",
+        "countries": [],
+        "points": []
+    },
+    {
+        "codePointStart": 8960,
+        "codePointEnd": 9215,
+        "key": "miscellaneous-technical",
+        "name": "Miscellaneous Technical",
+        "categoryKey": "symbols",
+        "type": "",
+        "languages": "",
+        "countries": [],
+        "points": []
+    },
+    {
+        "codePointStart": 9216,
+        "codePointEnd": 9279,
+        "key": "control-pictures",
+        "name": "Control Pictures",
+        "categoryKey": "symbols",
+        "type": "",
+        "languages": "",
+        "countries": [],
+        "points": []
+    },
+    {
+        "codePointStart": 9280,
+        "codePointEnd": 9311,
+        "key": "optical-character-recognition",
+        "name": "Optical Character Recognition",
+        "categoryKey": "symbols",
+        "type": "",
+        "languages": "",
+        "countries": [],
+        "points": []
+    },
+    {
+        "codePointStart": 9312,
+        "codePointEnd": 9471,
+        "key": "enclosed-alphanumerics",
+        "name": "Enclosed Alphanumerics",
+        "categoryKey": "symbols",
+        "type": "",
+        "languages": "",
+        "countries": [],
+        "points": []
+    },
+    {
+        "codePointStart": 9472,
+        "codePointEnd": 9599,
+        "key": "box-drawing",
+        "name": "Box Drawing",
+        "categoryKey": "symbols",
+        "type": "",
+        "languages": "",
+        "countries": [],
+        "points": []
+    },
+    {
+        "codePointStart": 9600,
+        "codePointEnd": 9631,
+        "key": "block-elements",
+        "name": "Block Elements",
+        "categoryKey": "symbols",
+        "type": "",
+        "languages": "",
+        "countries": [],
+        "points": []
+    },
+    {
+        "codePointStart": 9632,
+        "codePointEnd": 9727,
+        "key": "geometric-shapes",
+        "name": "Geometric Shapes",
+        "categoryKey": "symbols",
+        "type": "",
+        "languages": "",
+        "countries": [],
+        "points": []
+    },
+    {
+        "codePointStart": 9728,
+        "codePointEnd": 9983,
+        "key": "miscellaneous-symbols",
+        "name": "Miscellaneous Symbols",
+        "categoryKey": "symbols",
+        "type": "",
+        "languages": "",
+        "countries": [],
+        "points": []
+    },
+    {
+        "codePointStart": 9984,
+        "codePointEnd": 10175,
+        "key": "dingbats",
+        "name": "Dingbats",
+        "categoryKey": "symbols",
+        "type": "",
+        "languages": "",
+        "countries": [],
+        "points": []
+    },
+    {
+        "codePointStart": 10176,
+        "codePointEnd": 10223,
+        "key": "miscellaneous-mathematical-symbols-a",
+        "name": "Miscellaneous Mathematical Symbols-A",
+        "categoryKey": "symbols",
+        "type": "",
+        "languages": "",
+        "countries": [],
+        "points": []
+    },
+    {
+        "codePointStart": 10224,
+        "codePointEnd": 10239,
+        "key": "supplemental-arrows-a",
+        "name": "Supplemental Arrows-A",
+        "categoryKey": "symbols",
+        "type": "",
+        "languages": "",
+        "countries": [],
+        "points": []
+    },
+    {
+        "codePointStart": 10240,
+        "codePointEnd": 10495,
+        "key": "braille-patterns",
+        "name": "Braille Patterns",
+        "categoryKey": "notation",
+        "type": "",
+        "languages": "",
+        "countries": [],
+        "points": []
+    },
+    {
+        "codePointStart": 10496,
+        "codePointEnd": 10623,
+        "key": "supplemental-arrows-b",
+        "name": "Supplemental Arrows-B",
+        "categoryKey": "symbols",
+        "type": "",
+        "languages": "",
+        "countries": [],
+        "points": []
+    },
+    {
+        "codePointStart": 10624,
+        "codePointEnd": 10751,
+        "key": "miscellaneous-mathematical-symbols-b",
+        "name": "Miscellaneous Mathematical Symbols-B",
+        "categoryKey": "symbols",
+        "type": "",
+        "languages": "",
+        "countries": [],
+        "points": []
+    },
+    {
+        "codePointStart": 10752,
+        "codePointEnd": 11007,
+        "key": "supplemental-mathematical-operators",
+        "name": "Supplemental Mathematical Operators",
+        "categoryKey": "symbols",
+        "type": "",
+        "languages": "",
+        "countries": [],
+        "points": []
+    },
+    {
+        "codePointStart": 11008,
+        "codePointEnd": 11263,
+        "key": "miscellaneous-symbols-and-arrows",
+        "name": "Miscellaneous Symbols and Arrows",
+        "categoryKey": "symbols",
+        "type": "",
+        "languages": "",
+        "countries": [],
+        "points": []
+    },
+    {
+        "codePointStart": 11264,
+        "codePointEnd": 11359,
+        "key": "glagolitic",
+        "name": "Glagolitic",
+        "categoryKey": "Europe",
+        "type": "alphabet",
+        "languages": "old church Slavic",
+        "countries": [
+            {
+                "name": "Russia",
+                "x": 170,
+                "y": 25
+            },
+            {
+                "name": "Ukraine",
+                "x": 138,
+                "y": 26
+            },
+            {
+                "name": "Poland",
+                "x": 129,
+                "y": 25
+            },
+            {
+                "name": "Bulgaria",
+                "x": 129,
+                "y": 31
+            },
+            {
+                "name": "Bosnia",
+                "x": 129,
+                "y": 31
+            },
+            {
+                "name": "Herzegovina",
+                "x": 129,
+                "y": 31
+            },
+            {
+                "name": "Croatia",
+                "x": 127,
+                "y": 30
+            },
+            {
+                "name": "Montenegro",
+                "x": 131,
+                "y": 32
+            },
+            {
+                "name": "Macedonia",
+                "x": 132,
+                "y": 32
+            }
+        ]
+    },
+    {
+        "codePointStart": 11360,
+        "codePointEnd": 11391,
+        "key": "latin-extended-c",
+        "name": "Latin Extended-C",
+        "categoryKey": "Latin",
+        "type": "alphabet",
+        "languages": "",
+        "countries": [
+            {
+                "name": "China",
+                "x": 184,
+                "y": 37
+            },
+            {
+                "name": "Kazakhstan",
+                "x": 161,
+                "y": 28
+            }
+        ]
+    },
+    {
+        "codePointStart": 11392,
+        "codePointEnd": 11519,
+        "key": "coptic",
+        "name": "Coptic",
+        "categoryKey": "Europe",
+        "type": "alphabet",
+        "languages": "Coptic",
+        "countries": [
+            {
+                "name": "Egypt",
+                "x": 137,
+                "y": 42
+            },
+            {
+                "name": "Canada",
+                "x": 48,
+                "y": 21
+            },
+            {
+                "name": "Australia",
+                "x": 206,
+                "y": 76
+            },
+            {
+                "name": "USA",
+                "x": 50,
+                "y": 35
+            }
+        ]
+    },
+    {
+        "codePointStart": 11520,
+        "codePointEnd": 11567,
+        "key": "georgian-supplement",
+        "name": "Georgian Supplement",
+        "categoryKey": "Europe",
+        "type": "alphabet",
+        "languages": "Georgian",
+        "countries": [
+            {
+                "name": "Georgia",
+                "x": 144,
+                "y": 31
+            },
+            {
+                "name": "Abkhazia",
+                "x": 144,
+                "y": 31
+            }
+        ]
+    },
+    {
+        "codePointStart": 11568,
+        "codePointEnd": 11647,
+        "key": "tifinagh",
+        "name": "Tifinagh",
+        "categoryKey": "Africa",
+        "type": "abjad",
+        "languages": "Tuareg",
+        "countries": [
+            {
+                "name": "North Africa",
+                "x": 124,
+                "y": 43
+            }
+        ]
+    },
+    {
+        "codePointStart": 11648,
+        "codePointEnd": 11743,
+        "key": "ethiopic-extended",
+        "name": "Ethiopic Extended",
+        "categoryKey": "Africa",
+        "type": "abugida",
+        "languages": "Amharic, Tigtinya",
+        "countries": [
+            {
+                "name": "Ethiopia",
+                "x": 145,
+                "y": 54
+            },
+            {
+                "name": "Eritrea",
+                "x": 143,
+                "y": 50
+            },
+            {
+                "name": "Somalia",
+                "x": 148,
+                "y": 55
+            },
+            {
+                "name": "Sudan",
+                "x": 137,
+                "y": 50
+            },
+            {
+                "name": "Israel",
+                "x": 141,
+                "y": 39
+            }
+        ]
+    },
+    {
+        "codePointStart": 11744,
+        "codePointEnd": 11775,
+        "key": "cyrillic-extended-a",
+        "name": "Cyrillic Extended-A",
+        "categoryKey": "Europe",
+        "type": "alphabet",
+        "languages": "Russian, Ukrainian",
+        "countries": [
+            {
+                "name": "Russia",
+                "x": 170,
+                "y": 25
+            },
+            {
+                "name": "Ukraine",
+                "x": 138,
+                "y": 26
+            },
+            {
+                "name": "Bulgaria",
+                "x": 129,
+                "y": 31
+            },
+            {
+                "name": "Serbia",
+                "x": 132,
+                "y": 30
+            },
+            {
+                "name": "Macedonia",
+                "x": 132,
+                "y": 32
+            },
+            {
+                "name": "Moldova",
+                "x": 136,
+                "y": 28
+            }
+        ]
+    },
+    {
+        "codePointStart": 11776,
+        "codePointEnd": 11903,
+        "key": "supplemental-punctuation",
+        "name": "Supplemental Punctuation",
+        "categoryKey": "symbols",
+        "type": "",
+        "languages": "",
+        "countries": [],
+        "points": []
+    },
+    {
+        "codePointStart": 11904,
+        "codePointEnd": 12031,
+        "key": "cjk-radicals-supplement",
+        "name": "CJK Radicals Supplement",
+        "categoryKey": "Han",
+        "type": "",
+        "languages": "Chinese, Japanese, Vietnamese, Korean",
+        "countries": [
+            {
+                "name": "Peru",
+                "x": 66,
+                "y": 65
+            },
+            {
+                "name": "Laos",
+                "x": 186,
+                "y": 48
+            },
+            {
+                "name": "North Korea",
+                "x": 202,
+                "y": 33
+            },
+            {
+                "name": "China",
+                "x": 184,
+                "y": 37
+            },
+            {
+                "name": "Cambodia",
+                "x": 187,
+                "y": 52
+            },
+            {
+                "name": "Japan",
+                "x": 210,
+                "y": 36
+            },
+            {
+                "name": "Guam",
+                "x": 207,
+                "y": 53
+            },
+            {
+                "name": "Taiwan",
+                "x": 198,
+                "y": 44
+            },
+            {
+                "name": "South Korea",
+                "x": 203,
+                "y": 36
+            },
+            {
+                "name": "Vietnam",
+                "x": 190,
+                "y": 52
+            },
+            {
+                "name": "Somalia",
+                "x": 148,
+                "y": 55
+            },
+            {
+                "name": "Sudan",
+                "x": 137,
+                "y": 50
+            },
+            {
+                "name": "Israel",
+                "x": 141,
+                "y": 39
+            },
+            {
+                "name": "Singapore",
+                "x": 186,
+                "y": 58
+            },
+            {
+                "name": "Philippines",
+                "x": 199,
+                "y": 52
+            },
+            {
+                "name": "Malaysia",
+                "x": 186,
+                "y": 57
+            },
+            {
+                "name": "Indonesia",
+                "x": 193,
+                "y": 60
+            },
+            {
+                "name": "Thailand",
+                "x": 185,
+                "y": 49
+            }
+        ]
+    },
+    {
+        "codePointStart": 12032,
+        "codePointEnd": 12255,
+        "key": "kangxi-radicals",
+        "name": "Kangxi Radicals",
+        "categoryKey": "Han",
+        "type": "",
+        "languages": "",
+        "countries": [
+            {
+                "name": "China",
+                "x": 184,
+                "y": 37
+            }
+        ]
+    },
+    {
+        "codePointStart": 12272,
+        "codePointEnd": 12287,
+        "key": "ideographic-description-characters",
+        "name": "Ideographic Description Characters",
+        "categoryKey": "Han",
+        "type": "",
+        "languages": "",
+        "countries": [],
+        "points": []
+    },
+    {
+        "codePointStart": 12288,
+        "codePointEnd": 12351,
+        "key": "cjk-symbols-and-punctuation",
+        "name": "CJK Symbols and Punctuation",
+        "categoryKey": "AsiaEast",
+        "type": "",
+        "languages": "",
+        "countries": [],
+        "points": []
+    },
+    {
+        "codePointStart": 12352,
+        "codePointEnd": 12447,
+        "key": "hiragana",
+        "name": "Hiragana",
+        "categoryKey": "AsiaEast",
+        "type": "syllabary",
+        "languages": "Japanese, Okinawan",
+        "countries": [
+            {
+                "name": "Peru",
+                "x": 66,
+                "y": 65
+            },
+            {
+                "name": "North Korea",
+                "x": 202,
+                "y": 33
+            },
+            {
+                "name": "Japan",
+                "x": 210,
+                "y": 36
+            },
+            {
+                "name": "Guam",
+                "x": 207,
+                "y": 53
+            },
+            {
+                "name": "Taiwan",
+                "x": 198,
+                "y": 44
+            },
+            {
+                "name": "South Korea",
+                "x": 203,
+                "y": 36
+            }
+        ]
+    },
+    {
+        "codePointStart": 12448,
+        "codePointEnd": 12543,
+        "key": "katakana",
+        "name": "Katakana",
+        "categoryKey": "AsiaEast",
+        "type": "syllabary",
+        "languages": "Japanese, Okinawan, Ainu, Palaun",
+        "countries": [
+            {
+                "name": "Peru",
+                "x": 66,
+                "y": 65
+            },
+            {
+                "name": "North Korea",
+                "x": 202,
+                "y": 33
+            },
+            {
+                "name": "Japan",
+                "x": 210,
+                "y": 36
+            },
+            {
+                "name": "Guam",
+                "x": 207,
+                "y": 53
+            },
+            {
+                "name": "Taiwan",
+                "x": 198,
+                "y": 44
+            },
+            {
+                "name": "South Korea",
+                "x": 203,
+                "y": 36
+            }
+        ]
+    },
+    {
+        "codePointStart": 12544,
+        "codePointEnd": 12591,
+        "key": "bopomofo",
+        "name": "Bopomofo",
+        "categoryKey": "AsiaEast",
+        "type": "syllabary",
+        "languages": "Chinese",
+        "countries": [
+            {
+                "name": "Taiwan",
+                "x": 198,
+                "y": 44
+            }
+        ]
+    },
+    {
+        "codePointStart": 12592,
+        "codePointEnd": 12687,
+        "key": "hangul-compatibility-jamo",
+        "name": "Hangul Compatibility Jamo",
+        "categoryKey": "AsiaEast",
+        "type": "syllabary",
+        "languages": "Chinese",
+        "countries": [
+            {
+                "name": "North Korea",
+                "x": 202,
+                "y": 33
+            },
+            {
+                "name": "South Korea",
+                "x": 203,
+                "y": 36
+            },
+            {
+                "name": "China",
+                "x": 184,
+                "y": 37
+            },
+            {
+                "name": "Japan",
+                "x": 210,
+                "y": 36
+            }
+        ]
+    },
+    {
+        "codePointStart": 12688,
+        "codePointEnd": 12703,
+        "key": "kanbun",
+        "name": "Kanbun",
+        "categoryKey": "AsiaEast",
+        "type": "syllabary",
+        "languages": "",
+        "countries": [
+            {
+                "name": "China",
+                "x": 184,
+                "y": 37
+            }
+        ]
+    },
+    {
+        "codePointStart": 12704,
+        "codePointEnd": 12735,
+        "key": "bopomofo-extended",
+        "name": "Bopomofo Extended",
+        "categoryKey": "AsiaEast",
+        "type": "syllabary",
+        "languages": "",
+        "countries": [
+            {
+                "name": "Taiwan",
+                "x": 198,
+                "y": 44
+            }
+        ]
+    },
+    {
+        "codePointStart": 12736,
+        "codePointEnd": 12783,
+        "key": "cjk-strokes",
+        "name": "CJK Strokes",
+        "categoryKey": "Han",
+        "type": "syllabary",
+        "languages": "Chinese",
+        "countries": [
+            {
+                "name": "Peru",
+                "x": 66,
+                "y": 65
+            },
+            {
+                "name": "Laos",
+                "x": 186,
+                "y": 48
+            },
+            {
+                "name": "North Korea",
+                "x": 202,
+                "y": 33
+            },
+            {
+                "name": "China",
+                "x": 184,
+                "y": 37
+            },
+            {
+                "name": "Cambodia",
+                "x": 187,
+                "y": 52
+            },
+            {
+                "name": "Japan",
+                "x": 210,
+                "y": 36
+            },
+            {
+                "name": "Guam",
+                "x": 207,
+                "y": 53
+            },
+            {
+                "name": "Taiwan",
+                "x": 198,
+                "y": 44
+            },
+            {
+                "name": "South Korea",
+                "x": 203,
+                "y": 36
+            },
+            {
+                "name": "Vietnam",
+                "x": 190,
+                "y": 52
+            },
+            {
+                "name": "Somalia",
+                "x": 148,
+                "y": 55
+            },
+            {
+                "name": "Sudan",
+                "x": 137,
+                "y": 50
+            },
+            {
+                "name": "Israel",
+                "x": 141,
+                "y": 39
+            },
+            {
+                "name": "Singapore",
+                "x": 186,
+                "y": 58
+            },
+            {
+                "name": "Philippines",
+                "x": 199,
+                "y": 52
+            },
+            {
+                "name": "Malaysia",
+                "x": 186,
+                "y": 57
+            },
+            {
+                "name": "Indonesia",
+                "x": 193,
+                "y": 60
+            },
+            {
+                "name": "Thailand",
+                "x": 185,
+                "y": 49
+            }
+        ]
+    },
+    {
+        "codePointStart": 12784,
+        "codePointEnd": 12799,
+        "key": "katakana-phonetic-extensions",
+        "name": "Katakana Phonetic Extensions",
+        "categoryKey": "AsiaEast",
+        "type": "syllabary",
+        "languages": "Japanese, Okinawan, Ainu, Palauan",
+        "countries": [
+            {
+                "name": "Peru",
+                "x": 66,
+                "y": 65
+            },
+            {
+                "name": "North Korea",
+                "x": 202,
+                "y": 33
+            },
+            {
+                "name": "Japan",
+                "x": 210,
+                "y": 36
+            },
+            {
+                "name": "Guam",
+                "x": 207,
+                "y": 53
+            },
+            {
+                "name": "Taiwan",
+                "x": 198,
+                "y": 44
+            },
+            {
+                "name": "South Korea",
+                "x": 203,
+                "y": 36
+            }
+        ]
+    },
+    {
+        "codePointStart": 12800,
+        "codePointEnd": 13055,
+        "key": "enclosed-cjk-letters-and-months",
+        "name": "Enclosed CJK Letters and Months",
+        "categoryKey": "symbols",
+        "type": "syllabary",
+        "languages": "Chinese",
+        "countries": [
+            {
+                "name": "Peru",
+                "x": 66,
+                "y": 65
+            },
+            {
+                "name": "Laos",
+                "x": 186,
+                "y": 48
+            },
+            {
+                "name": "North Korea",
+                "x": 202,
+                "y": 33
+            },
+            {
+                "name": "China",
+                "x": 184,
+                "y": 37
+            },
+            {
+                "name": "Cambodia",
+                "x": 187,
+                "y": 52
+            },
+            {
+                "name": "Japan",
+                "x": 210,
+                "y": 36
+            },
+            {
+                "name": "Guam",
+                "x": 207,
+                "y": 53
+            },
+            {
+                "name": "Taiwan",
+                "x": 198,
+                "y": 44
+            },
+            {
+                "name": "South Korea",
+                "x": 203,
+                "y": 36
+            },
+            {
+                "name": "Vietnam",
+                "x": 190,
+                "y": 52
+            },
+            {
+                "name": "Somalia",
+                "x": 148,
+                "y": 55
+            },
+            {
+                "name": "Sudan",
+                "x": 137,
+                "y": 50
+            },
+            {
+                "name": "Israel",
+                "x": 141,
+                "y": 39
+            },
+            {
+                "name": "Singapore",
+                "x": 186,
+                "y": 58
+            },
+            {
+                "name": "Philippines",
+                "x": 199,
+                "y": 52
+            },
+            {
+                "name": "Malaysia",
+                "x": 186,
+                "y": 57
+            },
+            {
+                "name": "Indonesia",
+                "x": 193,
+                "y": 60
+            },
+            {
+                "name": "Thailand",
+                "x": 185,
+                "y": 49
+            }
+        ]
+    },
+    {
+        "codePointStart": 13056,
+        "codePointEnd": 13311,
+        "key": "cjk-compatibility",
+        "name": "CJK Compatibility",
+        "categoryKey": "symbols",
+        "type": "syllabary",
+        "languages": "Chinese, Japanese, Korean, Vietnamese",
+        "countries": [
+            {
+                "name": "Peru",
+                "x": 66,
+                "y": 65
+            },
+            {
+                "name": "Laos",
+                "x": 186,
+                "y": 48
+            },
+            {
+                "name": "North Korea",
+                "x": 202,
+                "y": 33
+            },
+            {
+                "name": "China",
+                "x": 184,
+                "y": 37
+            },
+            {
+                "name": "Cambodia",
+                "x": 187,
+                "y": 52
+            },
+            {
+                "name": "Japan",
+                "x": 210,
+                "y": 36
+            },
+            {
+                "name": "Guam",
+                "x": 207,
+                "y": 53
+            },
+            {
+                "name": "Taiwan",
+                "x": 198,
+                "y": 44
+            },
+            {
+                "name": "South Korea",
+                "x": 203,
+                "y": 36
+            },
+            {
+                "name": "Vietnam",
+                "x": 190,
+                "y": 52
+            },
+            {
+                "name": "Somalia",
+                "x": 148,
+                "y": 55
+            },
+            {
+                "name": "Sudan",
+                "x": 137,
+                "y": 50
+            },
+            {
+                "name": "Israel",
+                "x": 141,
+                "y": 39
+            },
+            {
+                "name": "Singapore",
+                "x": 186,
+                "y": 58
+            },
+            {
+                "name": "Philippines",
+                "x": 199,
+                "y": 52
+            },
+            {
+                "name": "Malaysia",
+                "x": 186,
+                "y": 57
+            },
+            {
+                "name": "Indonesia",
+                "x": 193,
+                "y": 60
+            },
+            {
+                "name": "Thailand",
+                "x": 185,
+                "y": 49
+            }
+        ]
+    },
+    {
+        "codePointStart": 13312,
+        "codePointEnd": 19903,
+        "key": "cjk-unified-ideographs-extension-a",
+        "name": "CJK Unified Ideographs Extension A",
+        "categoryKey": "Han",
+        "type": "syllabary",
+        "languages": "Chinese, Japanese, Korean, Vietnamese",
+        "countries": [
+            {
+                "name": "Peru",
+                "x": 66,
+                "y": 65
+            },
+            {
+                "name": "Laos",
+                "x": 186,
+                "y": 48
+            },
+            {
+                "name": "North Korea",
+                "x": 202,
+                "y": 33
+            },
+            {
+                "name": "China",
+                "x": 184,
+                "y": 37
+            },
+            {
+                "name": "Cambodia",
+                "x": 187,
+                "y": 52
+            },
+            {
+                "name": "Japan",
+                "x": 210,
+                "y": 36
+            },
+            {
+                "name": "Guam",
+                "x": 207,
+                "y": 53
+            },
+            {
+                "name": "Taiwan",
+                "x": 198,
+                "y": 44
+            },
+            {
+                "name": "South Korea",
+                "x": 203,
+                "y": 36
+            },
+            {
+                "name": "Vietnam",
+                "x": 190,
+                "y": 52
+            },
+            {
+                "name": "Somalia",
+                "x": 148,
+                "y": 55
+            },
+            {
+                "name": "Sudan",
+                "x": 137,
+                "y": 50
+            },
+            {
+                "name": "Israel",
+                "x": 141,
+                "y": 39
+            },
+            {
+                "name": "Singapore",
+                "x": 186,
+                "y": 58
+            },
+            {
+                "name": "Philippines",
+                "x": 199,
+                "y": 52
+            },
+            {
+                "name": "Malaysia",
+                "x": 186,
+                "y": 57
+            },
+            {
+                "name": "Indonesia",
+                "x": 193,
+                "y": 60
+            },
+            {
+                "name": "Thailand",
+                "x": 185,
+                "y": 49
+            }
+        ]
+    },
+    {
+        "codePointStart": 19904,
+        "codePointEnd": 19967,
+        "key": "yijing-hexagram-symbols",
+        "name": "Yijing Hexagram Symbols",
+        "categoryKey": "symbols",
+        "type": "syllabary",
+        "languages": "",
+        "countries": [
+            {
+                "name": "China",
+                "x": 184,
+                "y": 37
+            }
+        ]
+    },
+    {
+        "codePointStart": 19968,
+        "codePointEnd": 40959,
+        "key": "cjk-unified-ideographs",
+        "name": "CJK Unified Ideographs",
+        "categoryKey": "Han",
+        "type": "syllabary",
+        "languages": "Chinese, Japanese, Korean, Vietnamese",
+        "countries": [
+            {
+                "name": "Peru",
+                "x": 66,
+                "y": 65
+            },
+            {
+                "name": "Laos",
+                "x": 186,
+                "y": 48
+            },
+            {
+                "name": "North Korea",
+                "x": 202,
+                "y": 33
+            },
+            {
+                "name": "China",
+                "x": 184,
+                "y": 37
+            },
+            {
+                "name": "Cambodia",
+                "x": 187,
+                "y": 52
+            },
+            {
+                "name": "Japan",
+                "x": 210,
+                "y": 36
+            },
+            {
+                "name": "Guam",
+                "x": 207,
+                "y": 53
+            },
+            {
+                "name": "Taiwan",
+                "x": 198,
+                "y": 44
+            },
+            {
+                "name": "South Korea",
+                "x": 203,
+                "y": 36
+            },
+            {
+                "name": "Vietnam",
+                "x": 190,
+                "y": 52
+            },
+            {
+                "name": "Somalia",
+                "x": 148,
+                "y": 55
+            },
+            {
+                "name": "Sudan",
+                "x": 137,
+                "y": 50
+            },
+            {
+                "name": "Israel",
+                "x": 141,
+                "y": 39
+            },
+            {
+                "name": "Singapore",
+                "x": 186,
+                "y": 58
+            },
+            {
+                "name": "Philippines",
+                "x": 199,
+                "y": 52
+            },
+            {
+                "name": "Malaysia",
+                "x": 186,
+                "y": 57
+            },
+            {
+                "name": "Indonesia",
+                "x": 193,
+                "y": 60
+            },
+            {
+                "name": "Thailand",
+                "x": 185,
+                "y": 49
+            }
+        ]
+    },
+    {
+        "codePointStart": 40960,
+        "codePointEnd": 42127,
+        "key": "yi-syllables",
+        "name": "Yi Syllables",
+        "categoryKey": "AsiaEast",
+        "type": "syllabary",
+        "languages": "Yi",
+        "countries": [
+            {
+                "name": "China",
+                "x": 184,
+                "y": 37
+            }
+        ]
+    },
+    {
+        "codePointStart": 42128,
+        "codePointEnd": 42191,
+        "key": "yi-radicals",
+        "name": "Yi Radicals",
+        "categoryKey": "AsiaEast",
+        "type": "syllabary",
+        "languages": "Yi",
+        "countries": [
+            {
+                "name": "China",
+                "x": 184,
+                "y": 37
+            }
+        ]
+    },
+    {
+        "codePointStart": 42192,
+        "codePointEnd": 42239,
+        "key": "lisu",
+        "name": "Lisu",
+        "categoryKey": "AsiaEast",
+        "type": "",
+        "languages": "",
+        "countries": [],
+        "points": []
+    },
+    {
+        "codePointStart": 42240,
+        "codePointEnd": 42559,
+        "key": "vai",
+        "name": "Vai",
+        "categoryKey": "Africa",
+        "type": "syllabary",
+        "languages": "Vai",
+        "countries": [
+            {
+                "name": "Liberia",
+                "x": 111,
+                "y": 55
+            },
+            {
+                "name": "Sierra-Leone",
+                "x": 108,
+                "y": 53
+            }
+        ]
+    },
+    {
+        "codePointStart": 42560,
+        "codePointEnd": 42655,
+        "key": "ciryllic-extended-b",
+        "name": "Cyrillic Extended-B",
+        "categoryKey": "Europe",
+        "type": "alphabet",
+        "languages": "",
+        "countries": [
+            {
+                "name": "Russia",
+                "x": 170,
+                "y": 25
+            },
+            {
+                "name": "Ukraine",
+                "x": 138,
+                "y": 26
+            },
+            {
+                "name": "Bulgaria",
+                "x": 129,
+                "y": 31
+            },
+            {
+                "name": "Serbia",
+                "x": 132,
+                "y": 30
+            },
+            {
+                "name": "Macedonia",
+                "x": 132,
+                "y": 32
+            },
+            {
+                "name": "Moldova",
+                "x": 136,
+                "y": 28
+            }
+        ]
+    },
+    {
+        "codePointStart": 42656,
+        "codePointEnd": 42751,
+        "key": "bamum",
+        "name": "Bamum",
+        "categoryKey": "Africa",
+        "type": "semisyllabary",
+        "languages": "Bamum",
+        "countries": [
+            {
+                "name": "Cameroon",
+                "x": 124,
+                "y": 56
+            },
+            {
+                "name": "Nigeria",
+                "x": 122,
+                "y": 54
+            }
+        ]
+    },
+    {
+        "codePointStart": 42752,
+        "codePointEnd": 42783,
+        "key": "modifier-tone-letters",
+        "name": "Modifier Tone Letters",
+        "categoryKey": "AsiaEast",
+        "type": "",
+        "languages": "",
+        "countries": [],
+        "points": []
+    },
+    {
+        "codePointStart": 42784,
+        "codePointEnd": 43007,
+        "key": "latin-extended-d",
+        "name": "Latin Extended-D",
+        "categoryKey": "Latin",
+        "type": "alphabet",
+        "languages": "",
+        "countries": [
+            {
+                "name": "Finland",
+                "x": 134,
+                "y": 17
+            },
+            {
+                "name": "Estland",
+                "x": 134,
+                "y": 22
+            },
+            {
+                "name": "Hungary",
+                "x": 130,
+                "y": 28
+            },
+            {
+                "name": "Salvador",
+                "x": 57,
+                "y": 50
+            }
+        ]
+    },
+    {
+        "codePointStart": 43008,
+        "codePointEnd": 43055,
+        "key": "syloty-nagri",
+        "name": "Syloti Nagri",
+        "categoryKey": "AsiaSC",
+        "type": "abugida",
+        "languages": "Sylheti, Bengali",
+        "countries": [
+            {
+                "name": "Bangladesh",
+                "x": 177,
+                "y": 44
+            },
+            {
+                "name": "India",
+                "x": 169,
+                "y": 47
+            }
+        ]
+    },
+    {
+        "codePointStart": 43056,
+        "codePointEnd": 43071,
+        "key": "common-indic-number-forms",
+        "name": "Common Indic Number Forms",
+        "categoryKey": "symbols",
+        "type": "",
+        "languages": "",
+        "countries": [],
+        "points": []
+    },
+    {
+        "codePointStart": 43072,
+        "codePointEnd": 43135,
+        "key": "phags-pa",
+        "name": "Phags-pa",
+        "categoryKey": "AsiaSC",
+        "type": "abugida",
+        "languages": "Mongolian, Sanskrit, Tibetan, Chinese, Uyghur",
+        "countries": [
+            {
+                "name": "Mongolia",
+                "x": 187,
+                "y": 27
+            },
+            {
+                "name": "India",
+                "x": 169,
+                "y": 47
+            },
+            {
+                "name": "China",
+                "x": 184,
+                "y": 37
+            },
+            {
+                "name": "Tibet",
+                "x": 173,
+                "y": 39
+            },
+            {
+                "name": "Kazakhstan",
+                "x": 161,
+                "y": 28
+            }
+        ]
+    },
+    {
+        "codePointStart": 43136,
+        "codePointEnd": 43231,
+        "key": "saurashtra",
+        "name": "Saurashtra",
+        "categoryKey": "AsiaSC",
+        "type": "alphabet",
+        "languages": "Saurashtra",
+        "countries": [
+            {
+                "name": "Mongolia",
+                "x": 187,
+                "y": 27
+            }
+        ]
+    },
+    {
+        "codePointStart": 43232,
+        "codePointEnd": 43263,
+        "key": "devanagari-extended-characters",
+        "name": "Devanagari Extended",
+        "categoryKey": "AsiaSC",
+        "type": "abugida",
+        "languages": "Marathi, Indian, Sanskrit, Hindi",
+        "countries": [
+            {
+                "name": "India",
+                "x": 169,
+                "y": 47
+            },
+            {
+                "name": "Pakistan",
+                "x": 163,
+                "y": 41
+            },
+            {
+                "name": "Fiji Islands",
+                "x": 228,
+                "y": 74
+            },
+            {
+                "name": "Mauritius",
+                "x": 154,
+                "y": 74
+            }
+        ]
+    },
+    {
+        "codePointStart": 43264,
+        "codePointEnd": 43311,
+        "key": "kayah-li",
+        "name": "Kayah Li",
+        "categoryKey": "AsiaSE",
+        "type": "abugida",
+        "languages": "Kayah",
+        "countries": [
+            {
+                "name": "Burma",
+                "x": 181,
+                "y": 47
+            },
+            {
+                "name": "Thailand",
+                "x": 185,
+                "y": 49
+            }
+        ]
+    },
+    {
+        "codePointStart": 43312,
+        "codePointEnd": 43359,
+        "key": "rejang",
+        "name": "Rejang",
+        "categoryKey": "IndOcean",
+        "type": "abugida",
+        "languages": "Rejang",
+        "countries": [
+            {
+                "name": "Sumatra",
+                "x": 183,
+                "y": 58
+            },
+            {
+                "name": "Indonesia",
+                "x": 193,
+                "y": 60
+            }
+        ]
+    },
+    {
+        "codePointStart": 43360,
+        "codePointEnd": 43391,
+        "key": "hangul-jamo-extended-a",
+        "name": "Hangul Jamo Extended-A",
+        "categoryKey": "AsiaEast",
+        "type": "alphabet",
+        "languages": "Korean",
+        "countries": [
+            {
+                "name": "North Korea",
+                "x": 202,
+                "y": 33
+            },
+            {
+                "name": "South Korea",
+                "x": 203,
+                "y": 36
+            },
+            {
+                "name": "China",
+                "x": 184,
+                "y": 37
+            },
+            {
+                "name": "Japan",
+                "x": 210,
+                "y": 36
+            },
+            {
+                "name": "Indonesia",
+                "x": 193,
+                "y": 60
+            }
+        ]
+    },
+    {
+        "codePointStart": 43392,
+        "codePointEnd": 43487,
+        "key": "javanese-alphabet",
+        "name": "Javanese",
+        "categoryKey": "IndOcean",
+        "type": "abugida",
+        "languages": "Javanese, Sundanese",
+        "countries": [
+            {
+                "name": "Indonesia",
+                "x": 193,
+                "y": 60
+            }
+        ]
+    },
+    {
+        "codePointStart": 43488,
+        "codePointEnd": 43519,
+        "key": "myanmar-extended-b",
+        "name": "Myanmar Extended-B",
+        "categoryKey": "AsiaSE",
+        "type": "",
+        "languages": "",
+        "countries": [],
+        "points": []
+    },
+    {
+        "codePointStart": 43520,
+        "codePointEnd": 43615,
+        "key": "cham-alphabet",
+        "name": "Cham",
+        "categoryKey": "AsiaSE",
+        "type": "abugida",
+        "languages": "Cham",
+        "countries": [
+            {
+                "name": "Cambodia",
+                "x": 187,
+                "y": 52
+            },
+            {
+                "name": "Vietnam",
+                "x": 190,
+                "y": 52
+            },
+            {
+                "name": "Thailand",
+                "x": 185,
+                "y": 49
+            },
+            {
+                "name": "China",
+                "x": 184,
+                "y": 37
+            }
+        ]
+    },
+    {
+        "codePointStart": 43616,
+        "codePointEnd": 43647,
+        "key": "myanmar-extended-a",
+        "name": "Myanmar Extended-A",
+        "categoryKey": "AsiaSE",
+        "type": "abugida",
+        "languages": "",
+        "countries": [
+            {
+                "name": "Myanmar",
+                "x": 182,
+                "y": 47
+            },
+            {
+                "name": "Thailand",
+                "x": 185,
+                "y": 49
+            },
+            {
+                "name": "Bangladesh",
+                "x": 177,
+                "y": 44
+            },
+            {
+                "name": "Malaysia",
+                "x": 186,
+                "y": 57
+            }
+        ]
+    },
+    {
+        "codePointStart": 43648,
+        "codePointEnd": 43743,
+        "key": "tai-viet",
+        "name": "Tai Viet",
+        "categoryKey": "AsiaSE",
+        "type": "abugida",
+        "languages": "",
+        "countries": [
+            {
+                "name": "Vietnam",
+                "x": 190,
+                "y": 52
+            },
+            {
+                "name": "Thailand",
+                "x": 185,
+                "y": 49
+            },
+            {
+                "name": "Laos",
+                "x": 186,
+                "y": 48
+            },
+            {
+                "name": "China",
+                "x": 184,
+                "y": 37
+            }
+        ]
+    },
+    {
+        "codePointStart": 43744,
+        "codePointEnd": 43775,
+        "key": "meitei-meyek-extensions",
+        "name": "Meetei Mayek Extensions",
+        "categoryKey": "AsiaSC",
+        "type": "abugida",
+        "languages": "",
+        "countries": [
+            {
+                "name": "Vietnam",
+                "x": 190,
+                "y": 52
+            },
+            {
+                "name": "Thailand",
+                "x": 185,
+                "y": 49
+            },
+            {
+                "name": "Laos",
+                "x": 186,
+                "y": 48
+            },
+            {
+                "name": "China",
+                "x": 184,
+                "y": 37
+            }
+        ]
+    },
+    {
+        "codePointStart": 43776,
+        "codePointEnd": 43823,
+        "key": "ethiopic-extended-a",
+        "name": "Ethiopic Extended-A",
+        "categoryKey": "Africa",
+        "type": "abugida",
+        "languages": "ethiopian Semitic",
+        "countries": [
+            {
+                "name": "Ethiopia",
+                "x": 145,
+                "y": 54
+            },
+            {
+                "name": "Sudan",
+                "x": 137,
+                "y": 50
+            },
+            {
+                "name": "Eritrea",
+                "x": 143,
+                "y": 50
+            },
+            {
+                "name": "Somalia",
+                "x": 148,
+                "y": 55
+            },
+            {
+                "name": "Israel",
+                "x": 141,
+                "y": 39
+            }
+        ]
+    },
+    {
+        "codePointStart": 43824,
+        "codePointEnd": 43887,
+        "key": "latin-extended-e",
+        "name": "Latin Extended-E",
+        "categoryKey": "Latin",
+        "type": "",
+        "languages": "",
+        "countries": [],
+        "points": []
+    },
+    {
+        "codePointStart": 43888,
+        "codePointEnd": 43967,
+        "key": "cherokee-supplement",
+        "name": "Cherokee Supplement",
+        "categoryKey": "Americas",
+        "type": "",
+        "languages": "",
+        "countries": [],
+        "points": []
+    },
+    {
+        "codePointStart": 43968,
+        "codePointEnd": 44031,
+        "key": "meetei-mayek",
+        "name": "Meetei Mayek",
+        "categoryKey": "AsiaSC",
+        "type": "",
+        "languages": "",
+        "countries": [
+            {
+                "name": "India",
+                "x": 169,
+                "y": 47
+            },
+            {
+                "name": "Bangladesh",
+                "x": 177,
+                "y": 44
+            },
+            {
+                "name": "Burma",
+                "x": 181,
+                "y": 47
+            }
+        ]
+    },
+    {
+        "codePointStart": 44032,
+        "codePointEnd": 55215,
+        "key": "hangul-syllables",
+        "name": "Hangul Syllables",
+        "categoryKey": "AsiaEast",
+        "type": "alphabet",
+        "languages": "Korean, cia-Cia",
+        "countries": [
+            {
+                "name": "North Korea",
+                "x": 202,
+                "y": 33
+            },
+            {
+                "name": "South Korea",
+                "x": 203,
+                "y": 36
+            },
+            {
+                "name": "China",
+                "x": 184,
+                "y": 37
+            },
+            {
+                "name": "Japan",
+                "x": 210,
+                "y": 36
+            },
+            {
+                "name": "Indonesia",
+                "x": 193,
+                "y": 60
+            }
+        ]
+    },
+    {
+        "codePointStart": 55216,
+        "codePointEnd": 55295,
+        "key": "hangul-jamo-extended-b",
+        "name": "Hangul Jamo Extended-B",
+        "categoryKey": "AsiaEast",
+        "type": "",
+        "languages": "",
+        "countries": [],
+        "points": []
+    },
+    {
+        "codePointStart": 55296,
+        "codePointEnd": 56191,
+        "key": "high-surrogates",
+        "name": "High Surrogates",
+        "categoryKey": "surrogates",
+        "type": "",
+        "languages": "",
+        "countries": [],
+        "points": []
+    },
+    {
+        "codePointStart": 56192,
+        "codePointEnd": 56319,
+        "key": "high-private-use-surrogates",
+        "name": "High Private Use Surrogates",
+        "categoryKey": "surrogates",
+        "type": "",
+        "languages": "",
+        "countries": [],
+        "points": []
+    },
+    {
+        "codePointStart": 56320,
+        "codePointEnd": 57343,
+        "key": "low-surrogates",
+        "name": "Low Surrogates",
+        "categoryKey": "surrogates",
+        "type": "",
+        "languages": "",
+        "countries": [],
+        "points": []
+    },
+    {
+        "codePointStart": 57344,
+        "codePointEnd": 63743,
+        "key": "private-use-area",
+        "name": "Private Use Area",
+        "categoryKey": "private",
+        "type": "",
+        "languages": "",
+        "countries": [],
+        "points": []
+    },
+    {
+        "codePointStart": 63744,
+        "codePointEnd": 64255,
+        "key": "cjk-compatibility-ideographs",
+        "name": "CJK Compatibility Ideographs",
+        "categoryKey": "Han",
+        "type": "",
+        "languages": "",
+        "countries": [],
+        "points": []
+    },
+    {
+        "codePointStart": 64256,
+        "codePointEnd": 64335,
+        "key": "alphabetic-presentation-forms",
+        "name": "Alphabetic Presentation Forms",
+        "categoryKey": "Latin",
+        "type": "",
+        "languages": "",
+        "countries": [],
+        "points": []
+    },
+    {
+        "codePointStart": 64336,
+        "codePointEnd": 65023,
+        "key": "arabic-presentation-forms-a",
+        "name": "Arabic Presentation Forms-A",
+        "categoryKey": "ME",
+        "type": "",
+        "languages": "",
+        "countries": [],
+        "points": []
+    },
+    {
+        "codePointStart": 65024,
+        "codePointEnd": 65039,
+        "key": "variation-selectors",
+        "name": "Variation Selectors",
+        "categoryKey": "variation",
+        "type": "",
+        "languages": "",
+        "countries": [],
+        "points": []
+    },
+    {
+        "codePointStart": 65040,
+        "codePointEnd": 65055,
+        "key": "vertical-forms",
+        "name": "Vertical Forms",
+        "categoryKey": "AsiaEast",
+        "type": "",
+        "languages": "",
+        "countries": [],
+        "points": []
+    },
+    {
+        "codePointStart": 65056,
+        "codePointEnd": 65071,
+        "key": "combining-half-marks",
+        "name": "Combining Half Marks",
+        "categoryKey": "Europe",
+        "type": "",
+        "languages": "",
+        "countries": [],
+        "points": []
+    },
+    {
+        "codePointStart": 65072,
+        "codePointEnd": 65103,
+        "key": "cjk-compatibility-forms",
+        "name": "CJK Compatibility Forms",
+        "categoryKey": "AsiaEast",
+        "type": "",
+        "languages": "",
+        "countries": [],
+        "points": []
+    },
+    {
+        "codePointStart": 65104,
+        "codePointEnd": 65135,
+        "key": "small-form-variants",
+        "name": "Small Form Variants",
+        "categoryKey": "AsiaEast",
+        "type": "",
+        "languages": "",
+        "countries": [],
+        "points": []
+    },
+    {
+        "codePointStart": 65136,
+        "codePointEnd": 65279,
+        "key": "arabic-presentation-forms-b",
+        "name": "Arabic Presentation Forms-B",
+        "categoryKey": "ME",
+        "type": "",
+        "languages": "",
+        "countries": [],
+        "points": []
+    },
+    {
+        "codePointStart": 65280,
+        "codePointEnd": 65519,
+        "key": "halfwidth-and-fullwidth-forms",
+        "name": "Halfwidth and Fullwidth Forms",
+        "categoryKey": "AsiaEast",
+        "type": "",
+        "languages": "",
+        "countries": [],
+        "points": []
+    },
+    {
+        "codePointStart": 65520,
+        "codePointEnd": 65535,
+        "key": "specials",
+        "name": "Specials",
+        "categoryKey": "misc",
+        "type": "",
+        "languages": "",
+        "countries": [],
+        "points": []
+    },
+    {
+        "codePointStart": 65536,
+        "codePointEnd": 65663,
+        "key": "linear-b-syllabary",
+        "name": "Linear B Syllabary",
+        "categoryKey": "Europe",
+        "type": "",
+        "languages": "",
+        "countries": [],
+        "points": []
+    },
+    {
+        "codePointStart": 65664,
+        "codePointEnd": 65791,
+        "key": "linear-b-ideograms",
+        "name": "Linear B Ideograms",
+        "categoryKey": "Europe",
+        "type": "",
+        "languages": "",
+        "countries": [],
+        "points": []
+    },
+    {
+        "codePointStart": 65792,
+        "codePointEnd": 65855,
+        "key": "aegean-numbers",
+        "name": "Aegean Numbers",
+        "categoryKey": "Europe",
+        "type": "",
+        "languages": "",
+        "countries": [],
+        "points": []
+    },
+    {
+        "codePointStart": 65856,
+        "codePointEnd": 65935,
+        "key": "ancient-greek-numbers",
+        "name": "Ancient Greek Numbers",
+        "categoryKey": "Europe",
+        "type": "",
+        "languages": "",
+        "countries": [],
+        "points": []
+    },
+    {
+        "codePointStart": 65936,
+        "codePointEnd": 65999,
+        "key": "ancient-symbols",
+        "name": "Ancient Symbols",
+        "categoryKey": "Europe",
+        "type": "",
+        "languages": "",
+        "countries": [],
+        "points": []
+    },
+    {
+        "codePointStart": 66000,
+        "codePointEnd": 66047,
+        "key": "phaistos-disc",
+        "name": "Phaistos Disc",
+        "categoryKey": "Europe",
+        "type": "",
+        "languages": "",
+        "countries": [],
+        "points": []
+    },
+    {
+        "codePointStart": 66176,
+        "codePointEnd": 66207,
+        "key": "lycian",
+        "name": "Lycian",
+        "categoryKey": "Europe",
+        "type": "",
+        "languages": "",
+        "countries": [],
+        "points": []
+    },
+    {
+        "codePointStart": 66208,
+        "codePointEnd": 66271,
+        "key": "carian",
+        "name": "Carian",
+        "categoryKey": "Europe",
+        "type": "",
+        "languages": "",
+        "countries": [],
+        "points": []
+    },
+    {
+        "codePointStart": 66272,
+        "codePointEnd": 66303,
+        "key": "coptic-epact-numbers",
+        "name": "Coptic Epact Numbers",
+        "categoryKey": "Europe",
+        "type": "",
+        "languages": "",
+        "countries": [],
+        "points": []
+    },
+    {
+        "codePointStart": 66304,
+        "codePointEnd": 66351,
+        "key": "old-italic",
+        "name": "Old Italic",
+        "categoryKey": "Europe",
+        "type": "",
+        "languages": "",
+        "countries": [],
+        "points": []
+    },
+    {
+        "codePointStart": 66352,
+        "codePointEnd": 66383,
+        "key": "gothic",
+        "name": "Gothic",
+        "categoryKey": "Europe",
+        "type": "",
+        "languages": "",
+        "countries": [],
+        "points": []
+    },
+    {
+        "codePointStart": 66384,
+        "codePointEnd": 66431,
+        "key": "old-permic",
+        "name": "Old Permic",
+        "categoryKey": "Europe",
+        "type": "",
+        "languages": "",
+        "countries": [],
+        "points": []
+    },
+    {
+        "codePointStart": 66432,
+        "codePointEnd": 66463,
+        "key": "ugaritic",
+        "name": "Ugaritic",
+        "categoryKey": "cuneiform",
+        "type": "",
+        "languages": "",
+        "countries": [],
+        "points": []
+    },
+    {
+        "codePointStart": 66464,
+        "codePointEnd": 66527,
+        "key": "old-persian",
+        "name": "Old Persian",
+        "categoryKey": "cuneiform",
+        "type": "",
+        "languages": "",
+        "countries": [],
+        "points": []
+    },
+    {
+        "codePointStart": 66560,
+        "codePointEnd": 66639,
+        "key": "deseret",
+        "name": "Deseret",
+        "categoryKey": "Americas",
+        "type": "",
+        "languages": "",
+        "countries": [],
+        "points": []
+    },
+    {
+        "codePointStart": 66640,
+        "codePointEnd": 66687,
+        "key": "shavian",
+        "name": "Shavian",
+        "categoryKey": "Europe",
+        "type": "",
+        "languages": "",
+        "countries": [],
+        "points": []
+    },
+    {
+        "codePointStart": 66688,
+        "codePointEnd": 66735,
+        "key": "osmanya",
+        "name": "Osmanya",
+        "categoryKey": "Africa",
+        "type": "",
+        "languages": "",
+        "countries": [],
+        "points": []
+    },
+    {
+        "codePointStart": 66736,
+        "codePointEnd": 66815,
+        "key": "osage",
+        "name": "Osage",
+        "categoryKey": "Americas",
+        "type": "",
+        "languages": "",
+        "countries": [],
+        "points": []
+    },
+    {
+        "codePointStart": 66816,
+        "codePointEnd": 66863,
+        "key": "elbasan",
+        "name": "Elbasan",
+        "categoryKey": "Europe",
+        "type": "",
+        "languages": "",
+        "countries": [],
+        "points": []
+    },
+    {
+        "codePointStart": 66864,
+        "codePointEnd": 66927,
+        "key": "caucasian-albanian",
+        "name": "Caucasian Albanian",
+        "categoryKey": "Europe",
+        "type": "",
+        "languages": "",
+        "countries": [],
+        "points": []
+    },
+    {
+        "codePointStart": 67072,
+        "codePointEnd": 67455,
+        "key": "linear-a",
+        "name": "Linear A",
+        "categoryKey": "Europe",
+        "type": "",
+        "languages": "",
+        "countries": [],
+        "points": []
+    },
+    {
+        "codePointStart": 67584,
+        "codePointEnd": 67647,
+        "key": "cypriot-syllabary",
+        "name": "Cypriot Syllabary",
+        "categoryKey": "Europe",
+        "type": "",
+        "languages": "",
+        "countries": [],
+        "points": []
+    },
+    {
+        "codePointStart": 67648,
+        "codePointEnd": 67679,
+        "key": "imperial-aramaic",
+        "name": "Imperial Aramaic",
+        "categoryKey": "ME",
+        "type": "",
+        "languages": "",
+        "countries": [],
+        "points": []
+    },
+    {
+        "codePointStart": 67680,
+        "codePointEnd": 67711,
+        "key": "palmyrene",
+        "name": "Palmyrene",
+        "categoryKey": "ME",
+        "type": "",
+        "languages": "",
+        "countries": [],
+        "points": []
+    },
+    {
+        "codePointStart": 67712,
+        "codePointEnd": 67759,
+        "key": "nabataean",
+        "name": "Nabataean",
+        "categoryKey": "ME",
+        "type": "",
+        "languages": "",
+        "countries": [],
+        "points": []
+    },
+    {
+        "codePointStart": 67808,
+        "codePointEnd": 67839,
+        "key": "hatran",
+        "name": "Hatran",
+        "categoryKey": "ME",
+        "type": "",
+        "languages": "",
+        "countries": [],
+        "points": []
+    },
+    {
+        "codePointStart": 67840,
+        "codePointEnd": 67871,
+        "key": "phoenician",
+        "name": "Phoenician",
+        "categoryKey": "ME",
+        "type": "",
+        "languages": "",
+        "countries": [],
+        "points": []
+    },
+    {
+        "codePointStart": 67872,
+        "codePointEnd": 67903,
+        "key": "lydian",
+        "name": "Lydian",
+        "categoryKey": "Europe",
+        "type": "",
+        "languages": "",
+        "countries": [],
+        "points": []
+    },
+    {
+        "codePointStart": 67968,
+        "codePointEnd": 67999,
+        "key": "meroitic-hieroglyphs",
+        "name": "Meroitic Hieroglyphs",
+        "categoryKey": "hieroglyphs",
+        "type": "",
+        "languages": "",
+        "countries": [],
+        "points": []
+    },
+    {
+        "codePointStart": 68000,
+        "codePointEnd": 68095,
+        "key": "meroitic-cursive",
+        "name": "Meroitic Cursive",
+        "categoryKey": "hieroglyphs",
+        "type": "",
+        "languages": "",
+        "countries": [],
+        "points": []
+    },
+    {
+        "codePointStart": 68096,
+        "codePointEnd": 68191,
+        "key": "kharoshthi",
+        "name": "Kharoshthi",
+        "categoryKey": "AsiaSC",
+        "type": "",
+        "languages": "",
+        "countries": [],
+        "points": []
+    },
+    {
+        "codePointStart": 68192,
+        "codePointEnd": 68223,
+        "key": "old-south-arabian",
+        "name": "Old South Arabian",
+        "categoryKey": "ME",
+        "type": "",
+        "languages": "",
+        "countries": [],
+        "points": []
+    },
+    {
+        "codePointStart": 68224,
+        "codePointEnd": 68255,
+        "key": "old-north-arabian",
+        "name": "Old North Arabian",
+        "categoryKey": "ME",
+        "type": "",
+        "languages": "",
+        "countries": [],
+        "points": []
+    },
+    {
+        "codePointStart": 68288,
+        "codePointEnd": 68351,
+        "key": "manichaean",
+        "name": "Manichaean",
+        "categoryKey": "ME",
+        "type": "",
+        "languages": "",
+        "countries": [],
+        "points": []
+    },
+    {
+        "codePointStart": 68352,
+        "codePointEnd": 68415,
+        "key": "avestan",
+        "name": "Avestan",
+        "categoryKey": "ME",
+        "type": "",
+        "languages": "",
+        "countries": [],
+        "points": []
+    },
+    {
+        "codePointStart": 68416,
+        "codePointEnd": 68447,
+        "key": "inscriptional-parthian",
+        "name": "Inscriptional Parthian",
+        "categoryKey": "ME",
+        "type": "",
+        "languages": "",
+        "countries": [],
+        "points": []
+    },
+    {
+        "codePointStart": 68448,
+        "codePointEnd": 68479,
+        "key": "inscriptional-pahlavi",
+        "name": "Inscriptional Pahlavi",
+        "categoryKey": "ME",
+        "type": "",
+        "languages": "",
+        "countries": [],
+        "points": []
+    },
+    {
+        "codePointStart": 68480,
+        "codePointEnd": 68527,
+        "key": "psalter-pahlavi",
+        "name": "Psalter Pahlavi",
+        "categoryKey": "ME",
+        "type": "",
+        "languages": "",
+        "countries": [],
+        "points": []
+    },
+    {
+        "codePointStart": 68608,
+        "codePointEnd": 68687,
+        "key": "old-turkic",
+        "name": "Old Turkic",
+        "categoryKey": "AsiaSC",
+        "type": "",
+        "languages": "",
+        "countries": [],
+        "points": []
+    },
+    {
+        "codePointStart": 68736,
+        "codePointEnd": 68863,
+        "key": "old-hungarian",
+        "name": "Old Hungarian",
+        "categoryKey": "Europe",
+        "type": "",
+        "languages": "",
+        "countries": [],
+        "points": []
+    },
+    {
+        "codePointStart": 68864,
+        "codePointEnd": 68927,
+        "key": "hanifi-rohingya",
+        "name": "Hanifi Rohingya",
+        "categoryKey": "AsiaSE",
+        "type": "",
+        "languages": "",
+        "countries": [],
+        "points": []
+    },
+    {
+        "codePointStart": 69216,
+        "codePointEnd": 69247,
+        "key": "rumi-numeral-symbols",
+        "name": "Rumi Numeral Symbols",
+        "categoryKey": "symbols",
+        "type": "",
+        "languages": "",
+        "countries": [],
+        "points": []
+    },
+    {
+        "codePointStart": 69248,
+        "codePointEnd": 69311,
+        "key": "yezidi",
+        "name": "Yezidi",
+        "categoryKey": "ME",
+        "type": "",
+        "languages": "",
+        "countries": [],
+        "points": []
+    },
+    {
+        "codePointStart": 69376,
+        "codePointEnd": 69423,
+        "key": "old-sogdian",
+        "name": "Old Sogdian",
+        "categoryKey": "AsiaSC",
+        "type": "",
+        "languages": "",
+        "countries": [],
+        "points": []
+    },
+    {
+        "codePointStart": 69424,
+        "codePointEnd": 69487,
+        "key": "sogdian",
+        "name": "Sogdian",
+        "categoryKey": "AsiaSC",
+        "type": "",
+        "languages": "",
+        "countries": [],
+        "points": []
+    },
+    {
+        "codePointStart": 69552,
+        "codePointEnd": 69599,
+        "key": "chorasmian",
+        "name": "Chorasmian",
+        "categoryKey": "AsiaSC",
+        "type": "",
+        "languages": "",
+        "countries": [],
+        "points": []
+    },
+    {
+        "codePointStart": 69600,
+        "codePointEnd": 69631,
+        "key": "elymaic",
+        "name": "Elymaic",
+        "categoryKey": "ME",
+        "type": "",
+        "languages": "",
+        "countries": [],
+        "points": []
+    },
+    {
+        "codePointStart": 69632,
+        "codePointEnd": 69759,
+        "key": "brahmi",
+        "name": "Brahmi",
+        "categoryKey": "AsiaSC",
+        "type": "",
+        "languages": "",
+        "countries": [],
+        "points": []
+    },
+    {
+        "codePointStart": 69760,
+        "codePointEnd": 69839,
+        "key": "kaithi",
+        "name": "Kaithi",
+        "categoryKey": "AsiaSC",
+        "type": "",
+        "languages": "",
+        "countries": [],
+        "points": []
+    },
+    {
+        "codePointStart": 69840,
+        "codePointEnd": 69887,
+        "key": "sora-sompeng",
+        "name": "Sora Sompeng",
+        "categoryKey": "AsiaSC",
+        "type": "",
+        "languages": "",
+        "countries": [],
+        "points": []
+    },
+    {
+        "codePointStart": 69888,
+        "codePointEnd": 69967,
+        "key": "chakma",
+        "name": "Chakma",
+        "categoryKey": "AsiaSC",
+        "type": "",
+        "languages": "",
+        "countries": [],
+        "points": []
+    },
+    {
+        "codePointStart": 69968,
+        "codePointEnd": 70015,
+        "key": "mahajani",
+        "name": "Mahajani",
+        "categoryKey": "AsiaSC",
+        "type": "",
+        "languages": "",
+        "countries": [],
+        "points": []
+    },
+    {
+        "codePointStart": 70016,
+        "codePointEnd": 70111,
+        "key": "sharada",
+        "name": "Sharada",
+        "categoryKey": "AsiaSC",
+        "type": "",
+        "languages": "",
+        "countries": [],
+        "points": []
+    },
+    {
+        "codePointStart": 70112,
+        "codePointEnd": 70143,
+        "key": "sinhala-archaic-numbers",
+        "name": "Sinhala Archaic Numbers",
+        "categoryKey": "AsiaSC",
+        "type": "",
+        "languages": "",
+        "countries": [],
+        "points": []
+    },
+    {
+        "codePointStart": 70144,
+        "codePointEnd": 70223,
+        "key": "khojki",
+        "name": "Khojki",
+        "categoryKey": "AsiaSC",
+        "type": "",
+        "languages": "",
+        "countries": [],
+        "points": []
+    },
+    {
+        "codePointStart": 70272,
+        "codePointEnd": 70319,
+        "key": "multani",
+        "name": "Multani",
+        "categoryKey": "AsiaSC",
+        "type": "",
+        "languages": "",
+        "countries": [],
+        "points": []
+    },
+    {
+        "codePointStart": 70320,
+        "codePointEnd": 70399,
+        "key": "khudawadi",
+        "name": "Khudawadi",
+        "categoryKey": "AsiaSC",
+        "type": "",
+        "languages": "",
+        "countries": [],
+        "points": []
+    },
+    {
+        "codePointStart": 70400,
+        "codePointEnd": 70527,
+        "key": "grantha",
+        "name": "Grantha",
+        "categoryKey": "AsiaSC",
+        "type": "",
+        "languages": "",
+        "countries": [],
+        "points": []
+    },
+    {
+        "codePointStart": 70656,
+        "codePointEnd": 70783,
+        "key": "newa",
+        "name": "Newa",
+        "categoryKey": "AsiaSC",
+        "type": "",
+        "languages": "",
+        "countries": [],
+        "points": []
+    },
+    {
+        "codePointStart": 70784,
+        "codePointEnd": 70879,
+        "key": "tirhuta",
+        "name": "Tirhuta",
+        "categoryKey": "AsiaSC",
+        "type": "",
+        "languages": "",
+        "countries": [],
+        "points": []
+    },
+    {
+        "codePointStart": 71040,
+        "codePointEnd": 71167,
+        "key": "siddham",
+        "name": "Siddham",
+        "categoryKey": "AsiaSC",
+        "type": "",
+        "languages": "",
+        "countries": [],
+        "points": []
+    },
+    {
+        "codePointStart": 71168,
+        "codePointEnd": 71263,
+        "key": "modi",
+        "name": "Modi",
+        "categoryKey": "AsiaSC",
+        "type": "",
+        "languages": "",
+        "countries": [],
+        "points": []
+    },
+    {
+        "codePointStart": 71264,
+        "codePointEnd": 71295,
+        "key": "mongolian-supplement",
+        "name": "Mongolian Supplement",
+        "categoryKey": "AsiaSC",
+        "type": "",
+        "languages": "",
+        "countries": [],
+        "points": []
+    },
+    {
+        "codePointStart": 71296,
+        "codePointEnd": 71375,
+        "key": "takri",
+        "name": "Takri",
+        "categoryKey": "AsiaSC",
+        "type": "",
+        "languages": "",
+        "countries": [],
+        "points": []
+    },
+    {
+        "codePointStart": 71424,
+        "codePointEnd": 71487,
+        "key": "ahom",
+        "name": "Ahom",
+        "categoryKey": "AsiaSC",
+        "type": "",
+        "languages": "",
+        "countries": [],
+        "points": []
+    },
+    {
+        "codePointStart": 71680,
+        "codePointEnd": 71759,
+        "key": "dogra",
+        "name": "Dogra",
+        "categoryKey": "AsiaSC",
+        "type": "",
+        "languages": "",
+        "countries": [],
+        "points": []
+    },
+    {
+        "codePointStart": 71840,
+        "codePointEnd": 71935,
+        "key": "warang-citi",
+        "name": "Warang Citi",
+        "categoryKey": "AsiaSC",
+        "type": "",
+        "languages": "",
+        "countries": [],
+        "points": []
+    },
+    {
+        "codePointStart": 71936,
+        "codePointEnd": 72031,
+        "key": "dives-akuru",
+        "name": "Dives Akuru",
+        "categoryKey": "AsiaSC",
+        "type": "",
+        "languages": "",
+        "countries": [],
+        "points": []
+    },
+    {
+        "codePointStart": 72096,
+        "codePointEnd": 72191,
+        "key": "nandinagari",
+        "name": "Nandinagari",
+        "categoryKey": "AsiaSC",
+        "type": "",
+        "languages": "",
+        "countries": [],
+        "points": []
+    },
+    {
+        "codePointStart": 72192,
+        "codePointEnd": 72271,
+        "key": "zanabazar-square",
+        "name": "Zanabazar Square",
+        "categoryKey": "AsiaSC",
+        "type": "",
+        "languages": "",
+        "countries": [],
+        "points": []
+    },
+    {
+        "codePointStart": 72272,
+        "codePointEnd": 72367,
+        "key": "soyombo",
+        "name": "Soyombo",
+        "categoryKey": "AsiaSC",
+        "type": "",
+        "languages": "",
+        "countries": [],
+        "points": []
+    },
+    {
+        "codePointStart": 72384,
+        "codePointEnd": 72447,
+        "key": "pau-cin-hau",
+        "name": "Pau Cin Hau",
+        "categoryKey": "AsiaSE",
+        "type": "",
+        "languages": "",
+        "countries": [],
+        "points": []
+    },
+    {
+        "codePointStart": 72704,
+        "codePointEnd": 72815,
+        "key": "bhaiksuki",
+        "name": "Bhaiksuki",
+        "categoryKey": "AsiaSC",
+        "type": "",
+        "languages": "",
+        "countries": [],
+        "points": []
+    },
+    {
+        "codePointStart": 72816,
+        "codePointEnd": 72895,
+        "key": "marchen",
+        "name": "Marchen",
+        "categoryKey": "AsiaSC",
+        "type": "",
+        "languages": "",
+        "countries": [],
+        "points": []
+    },
+    {
+        "codePointStart": 72960,
+        "codePointEnd": 73055,
+        "key": "masaram-gondi",
+        "name": "Masaram Gondi",
+        "categoryKey": "AsiaSC",
+        "type": "",
+        "languages": "",
+        "countries": [],
+        "points": []
+    },
+    {
+        "codePointStart": 73056,
+        "codePointEnd": 73135,
+        "key": "gunjala-gondi",
+        "name": "Gunjala Gondi",
+        "categoryKey": "AsiaSC",
+        "type": "",
+        "languages": "",
+        "countries": [],
+        "points": []
+    },
+    {
+        "codePointStart": 73440,
+        "codePointEnd": 73471,
+        "key": "makasar",
+        "name": "Makasar",
+        "categoryKey": "IndOcean",
+        "type": "",
+        "languages": "",
+        "countries": [],
+        "points": []
+    },
+    {
+        "codePointStart": 73648,
+        "codePointEnd": 73663,
+        "key": "lisu-supplement",
+        "name": "Lisu Supplement",
+        "categoryKey": "AsiaEast",
+        "type": "",
+        "languages": "",
+        "countries": [],
+        "points": []
+    },
+    {
+        "codePointStart": 73664,
+        "codePointEnd": 73727,
+        "key": "tamil-supplement",
+        "name": "Tamil Supplement",
+        "categoryKey": "AsiaSC",
+        "type": "",
+        "languages": "",
+        "countries": [],
+        "points": []
+    },
+    {
+        "codePointStart": 73728,
+        "codePointEnd": 74751,
+        "key": "cuneiform",
+        "name": "Cuneiform",
+        "categoryKey": "cuneiform",
+        "type": "",
+        "languages": "",
+        "countries": [],
+        "points": []
+    },
+    {
+        "codePointStart": 74752,
+        "codePointEnd": 74879,
+        "key": "cuneiform-numbers-and-punctuation",
+        "name": "Cuneiform Numbers and Punctuation",
+        "categoryKey": "cuneiform",
+        "type": "",
+        "languages": "",
+        "countries": [],
+        "points": []
+    },
+    {
+        "codePointStart": 74880,
+        "codePointEnd": 75087,
+        "key": "early-dynastic-cuneiform",
+        "name": "Early Dynastic Cuneiform",
+        "categoryKey": "cuneiform",
+        "type": "",
+        "languages": "",
+        "countries": [],
+        "points": []
+    },
+    {
+        "codePointStart": 77824,
+        "codePointEnd": 78895,
+        "key": "egyptian-hieroglyphs",
+        "name": "Egyptian Hieroglyphs",
+        "categoryKey": "hieroglyphs",
+        "type": "",
+        "languages": "",
+        "countries": [],
+        "points": []
+    },
+    {
+        "codePointStart": 78896,
+        "codePointEnd": 78911,
+        "key": "egyptian-hieroglyph-format-controls",
+        "name": "Egyptian Hieroglyph Format Controls",
+        "categoryKey": "hieroglyphs",
+        "type": "",
+        "languages": "",
+        "countries": [],
+        "points": []
+    },
+    {
+        "codePointStart": 82944,
+        "codePointEnd": 83583,
+        "key": "anatolian-hieroglyphs",
+        "name": "Anatolian Hieroglyphs",
+        "categoryKey": "hieroglyphs",
+        "type": "",
+        "languages": "",
+        "countries": [],
+        "points": []
+    },
+    {
+        "codePointStart": 92160,
+        "codePointEnd": 92735,
+        "key": "bamum-supplement",
+        "name": "Bamum Supplement",
+        "categoryKey": "Africa",
+        "type": "",
+        "languages": "",
+        "countries": [],
+        "points": []
+    },
+    {
+        "codePointStart": 92736,
+        "codePointEnd": 92783,
+        "key": "mro",
+        "name": "Mro",
+        "categoryKey": "AsiaSC",
+        "type": "",
+        "languages": "",
+        "countries": [],
+        "points": []
+    },
+    {
+        "codePointStart": 92880,
+        "codePointEnd": 92927,
+        "key": "bassa-vah",
+        "name": "Bassa Vah",
+        "categoryKey": "Africa",
+        "type": "",
+        "languages": "",
+        "countries": [],
+        "points": []
+    },
+    {
+        "codePointStart": 92928,
+        "codePointEnd": 93071,
+        "key": "pahawh-hmong",
+        "name": "Pahawh Hmong",
+        "categoryKey": "AsiaSE",
+        "type": "",
+        "languages": "",
+        "countries": [],
+        "points": []
+    },
+    {
+        "codePointStart": 93760,
+        "codePointEnd": 93855,
+        "key": "medefaidrin",
+        "name": "Medefaidrin",
+        "categoryKey": "Africa",
+        "type": "",
+        "languages": "",
+        "countries": [],
+        "points": []
+    },
+    {
+        "codePointStart": 93952,
+        "codePointEnd": 94111,
+        "key": "miao",
+        "name": "Miao",
+        "categoryKey": "AsiaEast",
+        "type": "",
+        "languages": "",
+        "countries": [],
+        "points": []
+    },
+    {
+        "codePointStart": 94176,
+        "codePointEnd": 94207,
+        "key": "ideographic-symbols-and-punctuation",
+        "name": "Ideographic Symbols and Punctuation",
+        "categoryKey": "AsiaEast",
+        "type": "",
+        "languages": "",
+        "countries": [],
+        "points": []
+    },
+    {
+        "codePointStart": 94208,
+        "codePointEnd": 100351,
+        "key": "tangut",
+        "name": "Tangut",
+        "categoryKey": "AsiaEast",
+        "type": "",
+        "languages": "",
+        "countries": [],
+        "points": []
+    },
+    {
+        "codePointStart": 100352,
+        "codePointEnd": 101119,
+        "key": "tangut-components",
+        "name": "Tangut Components",
+        "categoryKey": "AsiaEast",
+        "type": "",
+        "languages": "",
+        "countries": [],
+        "points": []
+    },
+    {
+        "codePointStart": 101120,
+        "codePointEnd": 101631,
+        "key": "khitan-small-script",
+        "name": "Khitan Small Script",
+        "categoryKey": "AsiaEast",
+        "type": "",
+        "languages": "",
+        "countries": [],
+        "points": []
+    },
+    {
+        "codePointStart": 101632,
+        "codePointEnd": 101775,
+        "key": "tangut-supplement",
+        "name": "Tangut Supplement",
+        "categoryKey": "AsiaEast",
+        "type": "",
+        "languages": "",
+        "countries": [],
+        "points": []
+    },
+    {
+        "codePointStart": 110592,
+        "codePointEnd": 110847,
+        "key": "kana-supplement",
+        "name": "Kana Supplement",
+        "categoryKey": "AsiaEast",
+        "type": "",
+        "languages": "",
+        "countries": [],
+        "points": []
+    },
+    {
+        "codePointStart": 110848,
+        "codePointEnd": 110895,
+        "key": "kana-extended-a",
+        "name": "Kana Extended-A",
+        "categoryKey": "AsiaEast",
+        "type": "",
+        "languages": "",
+        "countries": [],
+        "points": []
+    },
+    {
+        "codePointStart": 110896,
+        "codePointEnd": 110959,
+        "key": "small-kana-extension",
+        "name": "Small Kana Extension",
+        "categoryKey": "AsiaEast",
+        "type": "",
+        "languages": "",
+        "countries": [],
+        "points": []
+    },
+    {
+        "codePointStart": 110960,
+        "codePointEnd": 111359,
+        "key": "nushu",
+        "name": "Nushu",
+        "categoryKey": "AsiaEast",
+        "type": "",
+        "languages": "",
+        "countries": [],
+        "points": []
+    },
+    {
+        "codePointStart": 113664,
+        "codePointEnd": 113823,
+        "key": "duployan",
+        "name": "Duployan",
+        "categoryKey": "notation",
+        "type": "",
+        "languages": "",
+        "countries": [],
+        "points": []
+    },
+    {
+        "codePointStart": 113824,
+        "codePointEnd": 113839,
+        "key": "shorthand-format-controls",
+        "name": "Shorthand Format Controls",
+        "categoryKey": "notation",
+        "type": "",
+        "languages": "",
+        "countries": [],
+        "points": []
+    },
+    {
+        "codePointStart": 118784,
+        "codePointEnd": 119039,
+        "key": "byzantine-musical-symbols",
+        "name": "Byzantine Musical Symbols",
+        "categoryKey": "notation",
+        "type": "",
+        "languages": "",
+        "countries": [],
+        "points": []
+    },
+    {
+        "codePointStart": 119040,
+        "codePointEnd": 119295,
+        "key": "musical-symbols",
+        "name": "Musical Symbols",
+        "categoryKey": "notation",
+        "type": "",
+        "languages": "",
+        "countries": [],
+        "points": []
+    },
+    {
+        "codePointStart": 119296,
+        "codePointEnd": 119375,
+        "key": "ancient-greek-musical-notation",
+        "name": "Ancient Greek Musical Notation",
+        "categoryKey": "notation",
+        "type": "",
+        "languages": "",
+        "countries": [],
+        "points": []
+    },
+    {
+        "codePointStart": 119520,
+        "codePointEnd": 119551,
+        "key": "mayan-numerals",
+        "name": "Mayan Numerals",
+        "categoryKey": "symbols",
+        "type": "",
+        "languages": "",
+        "countries": [],
+        "points": []
+    },
+    {
+        "codePointStart": 119552,
+        "codePointEnd": 119647,
+        "key": "tai-xuan-jing-symbols",
+        "name": "Tai Xuan Jing Symbols",
+        "categoryKey": "symbols",
+        "type": "",
+        "languages": "",
+        "countries": [],
+        "points": []
+    },
+    {
+        "codePointStart": 119648,
+        "codePointEnd": 119679,
+        "key": "counting-rod-numerals",
+        "name": "Counting Rod Numerals",
+        "categoryKey": "symbols",
+        "type": "",
+        "languages": "",
+        "countries": [],
+        "points": []
+    },
+    {
+        "codePointStart": 119808,
+        "codePointEnd": 120831,
+        "key": "mathematical-alphanumeric-symbols",
+        "name": "Mathematical Alphanumeric Symbols",
+        "categoryKey": "symbols",
+        "type": "",
+        "languages": "",
+        "countries": [],
+        "points": []
+    },
+    {
+        "codePointStart": 120832,
+        "codePointEnd": 121519,
+        "key": "sutton-sign-writing",
+        "name": "Sutton SignWriting",
+        "categoryKey": "notation",
+        "type": "",
+        "languages": "",
+        "countries": [],
+        "points": []
+    },
+    {
+        "codePointStart": 122880,
+        "codePointEnd": 122927,
+        "key": "glagolitic-supplement",
+        "name": "Glagolitic Supplement",
+        "categoryKey": "Europe",
+        "type": "",
+        "languages": "",
+        "countries": [],
+        "points": []
+    },
+    {
+        "codePointStart": 123136,
+        "codePointEnd": 123215,
+        "key": "nyiakeng-puachue-hmong",
+        "name": "Nyiakeng Puachue Hmong",
+        "categoryKey": "AsiaSE",
+        "type": "",
+        "languages": "",
+        "countries": [],
+        "points": []
+    },
+    {
+        "codePointStart": 123584,
+        "codePointEnd": 123647,
+        "key": "wancho",
+        "name": "Wancho",
+        "categoryKey": "AsiaSC",
+        "type": "",
+        "languages": "",
+        "countries": [],
+        "points": []
+    },
+    {
+        "codePointStart": 124928,
+        "codePointEnd": 125151,
+        "key": "mende-kikakui",
+        "name": "Mende Kikakui",
+        "categoryKey": "Africa",
+        "type": "",
+        "languages": "",
+        "countries": [],
+        "points": []
+    },
+    {
+        "codePointStart": 125184,
+        "codePointEnd": 125279,
+        "key": "adlam",
+        "name": "Adlam",
+        "categoryKey": "Africa",
+        "type": "",
+        "languages": "",
+        "countries": [],
+        "points": []
+    },
+    {
+        "codePointStart": 126064,
+        "codePointEnd": 126143,
+        "key": "indic-siyaq-numbers",
+        "name": "Indic Siyaq Numbers",
+        "categoryKey": "symbols",
+        "type": "",
+        "languages": "",
+        "countries": [],
+        "points": []
+    },
+    {
+        "codePointStart": 126208,
+        "codePointEnd": 126287,
+        "key": "ottoman-siyaq-numbers",
+        "name": "Ottoman Siyaq Numbers",
+        "categoryKey": "symbols",
+        "type": "",
+        "languages": "",
+        "countries": [],
+        "points": []
+    },
+    {
+        "codePointStart": 126464,
+        "codePointEnd": 126719,
+        "key": "arabic-mathematical-alphabetic-symbols",
+        "name": "Arabic Mathematical Alphabetic Symbols",
+        "categoryKey": "symbols",
+        "type": "",
+        "languages": "",
+        "countries": [],
+        "points": []
+    },
+    {
+        "codePointStart": 126976,
+        "codePointEnd": 127023,
+        "key": "mahjong-tiles",
+        "name": "Mahjong Tiles",
+        "categoryKey": "symbols",
+        "type": "",
+        "languages": "",
+        "countries": [],
+        "points": []
+    },
+    {
+        "codePointStart": 127024,
+        "codePointEnd": 127135,
+        "key": "domino-tiles",
+        "name": "Domino Tiles",
+        "categoryKey": "symbols",
+        "type": "",
+        "languages": "",
+        "countries": [],
+        "points": []
+    },
+    {
+        "codePointStart": 127136,
+        "codePointEnd": 127231,
+        "key": "playing-cards",
+        "name": "Playing Cards",
+        "categoryKey": "symbols",
+        "type": "",
+        "languages": "",
+        "countries": [],
+        "points": []
+    },
+    {
+        "codePointStart": 127232,
+        "codePointEnd": 127487,
+        "key": "enclosed-alphanumeric-supplement",
+        "name": "Enclosed Alphanumeric Supplement",
+        "categoryKey": "symbols",
+        "type": "",
+        "languages": "",
+        "countries": [],
+        "points": []
+    },
+    {
+        "codePointStart": 127488,
+        "codePointEnd": 127743,
+        "key": "enclosed-ideographic-supplement",
+        "name": "Enclosed Ideographic Supplement",
+        "categoryKey": "symbols",
+        "type": "",
+        "languages": "",
+        "countries": [],
+        "points": []
+    },
+    {
+        "codePointStart": 127744,
+        "codePointEnd": 128511,
+        "key": "miscellaneous-symbols-and-pictographs",
+        "name": "Miscellaneous Symbols and Pictographs",
+        "categoryKey": "symbols",
+        "type": "",
+        "languages": "",
+        "countries": [],
+        "points": []
+    },
+    {
+        "codePointStart": 128512,
+        "codePointEnd": 128591,
+        "key": "emoticons",
+        "name": "Emoticons (Emoji)",
+        "categoryKey": "symbols",
+        "type": "",
+        "languages": "",
+        "countries": [],
+        "points": []
+    },
+    {
+        "codePointStart": 128592,
+        "codePointEnd": 128639,
+        "key": "ornamental-dingbats",
+        "name": "Ornamental Dingbats",
+        "categoryKey": "symbols",
+        "type": "",
+        "languages": "",
+        "countries": [],
+        "points": []
+    },
+    {
+        "codePointStart": 128640,
+        "codePointEnd": 128767,
+        "key": "transport-and-map-symbols",
+        "name": "Transport and Map Symbols",
+        "categoryKey": "symbols",
+        "type": "",
+        "languages": "",
+        "countries": [],
+        "points": []
+    },
+    {
+        "codePointStart": 128768,
+        "codePointEnd": 128895,
+        "key": "alchemical-symbols",
+        "name": "Alchemical Symbols",
+        "categoryKey": "symbols",
+        "type": "",
+        "languages": "",
+        "countries": [],
+        "points": []
+    },
+    {
+        "codePointStart": 128896,
+        "codePointEnd": 129023,
+        "key": "geometric-shapes-extended",
+        "name": "Geometric Shapes Extended",
+        "categoryKey": "symbols",
+        "type": "",
+        "languages": "",
+        "countries": [],
+        "points": []
+    },
+    {
+        "codePointStart": 129024,
+        "codePointEnd": 129279,
+        "key": "supplemental-arrows-c",
+        "name": "Supplemental Arrows-C",
+        "categoryKey": "symbols",
+        "type": "",
+        "languages": "",
+        "countries": [],
+        "points": []
+    },
+    {
+        "codePointStart": 129280,
+        "codePointEnd": 129535,
+        "key": "supplemental-symbols-and-pictographs",
+        "name": "Supplemental Symbols and Pictographs",
+        "categoryKey": "symbols",
+        "type": "",
+        "languages": "",
+        "countries": [],
+        "points": []
+    },
+    {
+        "codePointStart": 129536,
+        "codePointEnd": 129647,
+        "key": "chess-symbols",
+        "name": "Chess Symbols",
+        "categoryKey": "symbols",
+        "type": "",
+        "languages": "",
+        "countries": [],
+        "points": []
+    },
+    {
+        "codePointStart": 129648,
+        "codePointEnd": 129791,
+        "key": "symbols-and-pictographs-extended-a",
+        "name": "Symbols and Pictographs Extended-A",
+        "categoryKey": "symbols",
+        "type": "",
+        "languages": "",
+        "countries": [],
+        "points": []
+    },
+    {
+        "codePointStart": 129792,
+        "codePointEnd": 130047,
+        "key": "symbols-for-legacy-computing",
+        "name": "Symbols for Legacy Computing",
+        "categoryKey": "symbols",
+        "type": "",
+        "languages": "",
+        "countries": [],
+        "points": []
+    },
+    {
+        "codePointStart": 131072,
+        "codePointEnd": 173791,
+        "key": "cjk-unified-ideographs-extension-b",
+        "name": "CJK Unified Ideographs Extension B",
+        "categoryKey": "Han",
+        "type": "",
+        "languages": "",
+        "countries": [],
+        "points": []
+    },
+    {
+        "codePointStart": 173824,
+        "codePointEnd": 177983,
+        "key": "cjk-unified-ideographs-extension-c",
+        "name": "CJK Unified Ideographs Extension C",
+        "categoryKey": "Han",
+        "type": "",
+        "languages": "",
+        "countries": [],
+        "points": []
+    },
+    {
+        "codePointStart": 177984,
+        "codePointEnd": 178207,
+        "key": "cjk-unified-ideographs-extension-d",
+        "name": "CJK Unified Ideographs Extension D",
+        "categoryKey": "Han",
+        "type": "",
+        "languages": "",
+        "countries": [],
+        "points": []
+    },
+    {
+        "codePointStart": 178208,
+        "codePointEnd": 183983,
+        "key": "cjk-unified-ideographs-extension-e",
+        "name": "CJK Unified Ideographs Extension E",
+        "categoryKey": "Han",
+        "type": "",
+        "languages": "",
+        "countries": [],
+        "points": []
+    },
+    {
+        "codePointStart": 183984,
+        "codePointEnd": 191471,
+        "key": "cjk-unified-ideographs-extension-f",
+        "name": "CJK Unified Ideographs Extension F",
+        "categoryKey": "Han",
+        "type": "",
+        "languages": "",
+        "countries": [],
+        "points": []
+    },
+    {
+        "codePointStart": 194560,
+        "codePointEnd": 195103,
+        "key": "cjk-compatibility-ideographs-supplement",
+        "name": "CJK Compatibility Ideographs Supplement",
+        "categoryKey": "Han",
+        "type": "",
+        "languages": "",
+        "countries": [],
+        "points": []
+    },
+    {
+        "codePointStart": 196608,
+        "codePointEnd": 201551,
+        "key": "cjk-unified-ideographs-extension-g",
+        "name": "CJK Unified Ideographs Extension G",
+        "categoryKey": "Han",
+        "type": "",
+        "languages": "",
+        "countries": [],
+        "points": []
+    },
+    {
+        "codePointStart": 917504,
+        "codePointEnd": 917631,
+        "key": "tags",
+        "name": "Tags",
+        "categoryKey": "tags",
+        "type": "",
+        "languages": "",
+        "countries": [],
+        "points": []
+    },
+    {
+        "codePointStart": 917760,
+        "codePointEnd": 917999,
+        "key": "variation-selectors-supplement",
+        "name": "Variation Selectors Supplement",
+        "categoryKey": "variation",
+        "type": "",
+        "languages": "",
+        "countries": [],
+        "points": []
+    },
+    {
+        "codePointStart": 983040,
+        "codePointEnd": 1048575,
+        "key": "supplementary-private-use-area-a",
+        "name": "Supplementary Private Use Area-A",
+        "categoryKey": "private",
+        "type": "",
+        "languages": "",
+        "countries": [],
+        "points": []
+    },
+    {
+        "codePointStart": 1048576,
+        "codePointEnd": 1114111,
+        "key": "supplementary-private-use-area-b",
+        "name": "Supplementary Private Use Area-B",
+        "categoryKey": "private",
+        "type": "",
+        "languages": "",
+        "countries": [],
+        "points": []
+    }
+]

@@ -1,0 +1,46 @@
+# https://github.com/airbnb/swift
+
+whitelist_rules:
+  - closure_spacing
+  - colon
+  - empty_enum_arguments
+  - fatal_error_message
+  - force_try
+  # - force_cast
+  # - force_unwrapping
+  # - implicitly_unwrapped_optional
+  - legacy_cggeometry_functions
+  - legacy_constant
+  - legacy_constructor
+  - legacy_nsgeometry_functions
+  - operator_usage_whitespace
+  - redundant_string_enum_value
+  - redundant_void_return
+  - return_arrow_whitespace
+  - trailing_newline
+  - trailing_whitespace
+  - trailing_semicolon
+  - type_name
+  - generic_type_name
+  - unused_closure_parameter
+  - unused_optional_binding
+  - vertical_whitespace
+  - void_return
+  - custom_rules
+  - file_header
+  - trailing_comma
+
+excluded:
+  - "PlaygroundBook/Modules/SnapKit.playgroundmodule"
+  - "PlaygroundBook/Modules/DifferenceKit.playgroundmodule"
+  - "PlaygroundBook/Modules/ASCollectionView.playgroundmodule"
+  # - Pods
+  # - AHDownloadButton
+
+colon:
+  apply_to_dictionaries: true
+
+indentation: 2
+
+file_header:
+  required_pattern: "(\\/\\*\\n \\* Copyright © 2021 Ethan Wong\\. Licensed under MIT\\.\\n \\*)|(\\/\\/#-hidden-code\\n\\/\\/\\n\\/\\/ Copyright © 2021 Ethan Wong\\. Licensed under MIT\\.\\n\\/\\/\\n)"
